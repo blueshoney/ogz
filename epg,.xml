@@ -1,0 +1,1197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MovieSmart Premium">
+    <display-name lang="tr">MovieSmart Premium</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97253cfef0b75f4723ded" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Premium 2">
+    <display-name lang="tr">MovieSmart Premium 2</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f9725ccfef0b75f4723df0" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Platin">
+    <display-name lang="tr">MovieSmart Platin</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97268cfef0b75f4723df3" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Platin 2">
+    <display-name lang="tr">MovieSmart Platin 2</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97270cfef0b75f4723df6" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Gold">
+    <display-name lang="tr">MovieSmart Gold</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f97278cfef0b75f4723df9" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Action">
+    <display-name lang="tr">MovieSmart Action</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Fest">
+    <display-name lang="tr">MovieSmart Fest</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Family">
+    <display-name lang="tr">MovieSmart Family</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Classic">
+    <display-name lang="tr">MovieSmart Classic</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Türk">
+    <display-name lang="tr">MovieSmart Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Dizi Smart Premium">
+    <display-name lang="tr">Dizi Smart Premium</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FOXLIFE">
+    <display-name lang="tr">FOXLIFE</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="tr">FX</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FOXCRIME">
+    <display-name lang="tr">FOXCRIME</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FilmBox">
+    <display-name lang="tr">FilmBox</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Dizi Smart Max">
+    <display-name lang="tr">Dizi Smart Max</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <programme start="20200925223700 +0300" stop="20200925225000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200925225000 +0300" stop="20200926002500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Diane</title>
+    <desc lang="tr">Dul bir kadın olan Diane, emekli hayatını bir yandan eroin bağımlısı huysuz oğlu ile uğraşarak bir yandan da ölüm döşeğindeki kuzenini hastanede ziyaret ederek geçirmektedir. Oğluna, kuzenine ve çevresindeki diğer insanlara kol kanat geren Diane'in aklını uzun süredir bir şey kurcalamaktadır. Hayatına dokunduğu insanların kaderinden sorumlu olup olmadığı...(n)</desc>
+  </programme>
+  <programme start="20200926002500 +0300" stop="20200926005200 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Hollywood's Best Film Directors</title>
+  </programme>
+  <programme start="20200926005200 +0300" stop="20200926010000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926010000 +0300" stop="20200926025100 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Çarpık Evdeki Cesetler</title>
+    <title lang="en">Crooked House</title>
+    <desc lang="tr">Zengin ve acımasız bir iş adamı olan Aristide Leonides'in şüpheli ölümü üzerine torunu Sophia, eskiden diplomat olan şimdi ise özel dedektif olarak çalışan eski sevgilisi Charles Hayward'dan olayı soruşturmasını ister. Agatha Christie romanından beyaz perdeye aktarılan filmde, herkesin şüpheli olduğu bir ortamda asıl suçluyu bulmaya çalışan Charles'ın işi kolay olmayacaktır.</desc>
+  </programme>
+  <programme start="20200926025100 +0300" stop="20200926030500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926030500 +0300" stop="20200926043800 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Travma Merkezi</title>
+    <title lang="en">Trauma Center</title>
+    <desc lang="tr">Dedektif Wakes, karısının cinayete kurban gitmesinin ardından intikam yemini eder. Katillerin peşine düşen Wakes, bu sırada cinayet sırasında olay yerinde yaralanan Madison’ı koruma altına alır. Cinayetin tek kanıtı Madison’ın bacağında kurşundur ve katiller kadının peşindedir. Wakes, her şeyi kontrol altına aldığını düşünürken beklenmedik bir olay ile karşı karşıya kalır.</desc>
+  </programme>
+  <programme start="20200926043800 +0300" stop="20200926045000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926045000 +0300" stop="20200926063800 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Aile Babası</title>
+    <title lang="en">A Family Man</title>
+    <desc lang="tr">Dane Jensen, Blackrock Recruiting şirketi için çalışan ve şirkete alınacak elemanların da kararını veren teknik eleman avcısıdır. Dane, şirkette en üst seviyeye çıkabilmek için fırsat kollamakta ve azimle çalışmaktadır. Tam da bu sırada çocuğu hastalanan Dane, işi ya da ailesi arasında bir seçim yapmalı ve önceliklerini belirlemelidir.</desc>
+  </programme>
+  <programme start="20200926063800 +0300" stop="20200926065000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926065000 +0300" stop="20200926081800 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Soğuk Savaş</title>
+    <title lang="en">Cold War</title>
+    <desc lang="tr">Halk şarkıları ve dansları topluluğu kurmayı hedefleyen Wictor ve Irena topluluğa katılacak sanatçılar için seçme düzenler. Seçmelere katılan Zula ile Wiktor arasında bir aşk başlar. İki sevgilinin 50’li yıllarda Polonya’dan Berlin’e , Yugoslavya’dan Paris’e uzanan tutkulu aşklarının ve savaş sonrası dönemin anlatıldığı film 3 dalda Oscar adayı olmuştur.</desc>
+  </programme>
+  <programme start="20200926081800 +0300" stop="20200926082500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926082500 +0300" stop="20200926095500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Sıradan Aşk</title>
+    <title lang="en">Ordinary Love</title>
+    <desc lang="tr">Birbirlerine derin bir sevgiyle bağlı olan Joan ve Tom'un uzun yıllardır süren mutlu,keyifli evlilikleri, Joan'a kanser teşhisi konulmasıyla güçlü bir sınavdan geçer. Bu süreci en az hasarla atlatmaya çalışan çift, aşk ve hayatla ilgili birtakım epik sorulara cevap arar.</desc>
+  </programme>
+  <programme start="20200926095500 +0300" stop="20200926101000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926101000 +0300" stop="20200926115700 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Tolkien</title>
+    <desc lang="tr">Yazar, şair, filolog ve profesör olan Ronald Tolkien’in gerçek yaşam öyküsü... Çocukluğunda yetim kalan Ronald Tolkien’in kardeşi ile birlikte geldiği Londra’da yaşadıkları, savaşın yaşamındaki etkileri,dostlukları ve tüm bu dramlardan fantastik edebiyat ve zengin hayal gücüyle kurtuluşunun anlatıldığı film, izleyiciye Tolkien’i yakından tanıma fırsatı veriyor.</desc>
+  </programme>
+  <programme start="20200926115700 +0300" stop="20200926122000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926122000 +0300" stop="20200926140900 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Lefty Brown'un Türküsü</title>
+    <title lang="en">The Ballad of Lefty Brown</title>
+    <desc lang="tr">Kovboy Lefty Brown, uzun süredir ortağı olan ve yeni seçilen Senatör Edward Johnson'nın öldürülmesine tanık olduktan sonra katilleri bulmak ve arkadaşının korkunç ölümünün intikamını almak ister. Lefty, büyük ve ıssız Montana ovalarında kanun kaçaklarını takip etmek ve adalete teslim etmek için genç bir silahşör Yeremiah ve alkolik olan eski bir askeri işe alır.</desc>
+  </programme>
+  <programme start="20200926140900 +0300" stop="20200926143500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926143500 +0300" stop="20200926163500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Lucy Gözkyüzünde</title>
+    <title lang="en">Lucy in the Sky</title>
+    <desc lang="tr">Film, bir görev sonrası Dünya'ya dönen ve bir meslektaşıyla ilişkiye başlayan evli bir astronotu konu alırken, uzayda uzun süre vakit geçiren astronotların eve döndükten sonra gerçeklik algılarını kaybetmesi teorisine odaklanıyor.</desc>
+  </programme>
+  <programme start="20200926163500 +0300" stop="20200926170000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926170000 +0300" stop="20200926185300 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Orman</title>
+    <title lang="en">Jungle</title>
+    <desc lang="tr">1980 yılında bir grup arkadaş gezgin Yossi, öğretmen Marcus ve fotoğraf sanatçısı Kevin merak ettikleri Güney Amerika’ya yolculuk yapmaya karar verirler. Gezi sırasında kendisini tur rehberi olarak tanıtan Karl ile tanışırlar. Gerçekte tur rehberi olmayan Karl, üç arkadaşı çeşitli vaatler ile kandırarak ormanın derinliklerinde bilinmezliğe sürükler.</desc>
+  </programme>
+  <programme start="20200926185300 +0300" stop="20200926192000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926192000 +0300" stop="20200926205800 +0300" channel="MovieSmart Premium">
+    <title lang="tr">İtalyan Usulü Aşk</title>
+    <title lang="en">Little Italy</title>
+    <desc lang="tr">İki yakın arkadaş olan Sal ve Vince birlikte restoran işletmektedir. Bilinmeyen bir nedenden dolayı araları bozulan ikili birer düşmana dönüşür. Sal'in Londra'da şef olan kızı Nikki'nin dönüp Vince'in oğlu Leo'ya aşık olması ile gerilen ortam Sal'in annesi Franca ve Vince'in babası Carlo'nun evlenmeye karar vermesi ile iyice karışır.</desc>
+  </programme>
+  <programme start="20200926205800 +0300" stop="20200926212500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926212500 +0300" stop="20200926232000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Boynuzlar</title>
+    <title lang="en">Horns</title>
+    <desc lang="tr">Kız arkadaşının gizemli ölümünün ardından Ig Perrish, cinayetin bir numaralı şüphelisi ilan edilir. Cinayetin yanı sıra gizemini çözmesi gereken diğer bir şey de; bir sabah uyandığında başında çıkan iki boynuzun ne anlama geldiğidir.</desc>
+  </programme>
+  <programme start="20200926232000 +0300" stop="20200926234700 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Hollywood's Best Film Directors</title>
+  </programme>
+  <programme start="20200926234700 +0300" stop="20200927000500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200927000500 +0300" stop="20200927015200 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Tolkien</title>
+    <desc lang="tr">Yazar, şair, filolog ve profesör olan Ronald Tolkien’in gerçek yaşam öyküsü... Çocukluğunda yetim kalan Ronald Tolkien’in kardeşi ile birlikte geldiği Londra’da yaşadıkları, savaşın yaşamındaki etkileri,dostlukları ve tüm bu dramlardan fantastik edebiyat ve zengin hayal gücüyle kurtuluşunun anlatıldığı film, izleyiciye Tolkien’i yakından tanıma fırsatı veriyor.</desc>
+  </programme>
+  <programme start="20200927015200 +0300" stop="20200927020500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200927020500 +0300" stop="20200927041500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Lucy Gözkyüzünde</title>
+    <title lang="en">Lucy in the Sky</title>
+    <desc lang="tr">Film, bir görev sonrası Dünya'ya dönen ve bir meslektaşıyla ilişkiye başlayan evli bir astronotu konu alırken, uzayda uzun süre vakit geçiren astronotların eve döndükten sonra gerçeklik algılarını kaybetmesi teorisine odaklanıyor.</desc>
+  </programme>
+  <programme start="20200927041500 +0300" stop="20200927061500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Lefty Brown'un Türküsü</title>
+    <title lang="en">The Ballad of Lefty Brown</title>
+    <desc lang="tr">Kovboy Lefty Brown, uzun süredir ortağı olan ve yeni seçilen Senatör Edward Johnson'nın öldürülmesine tanık olduktan sonra katilleri bulmak ve arkadaşının korkunç ölümünün intikamını almak ister. Lefty, büyük ve ıssız Montana ovalarında kanun kaçaklarını takip etmek ve adalete teslim etmek için genç bir silahşör Yeremiah ve alkolik olan eski bir askeri işe alır.</desc>
+  </programme>
+  <programme start="20200927061500 +0300" stop="20200927082000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Orman</title>
+    <title lang="en">Jungle</title>
+    <desc lang="tr">1980 yılında bir grup arkadaş gezgin Yossi, öğretmen Marcus ve fotoğraf sanatçısı Kevin merak ettikleri Güney Amerika’ya yolculuk yapmaya karar verirler. Gezi sırasında kendisini tur rehberi olarak tanıtan Karl ile tanışırlar. Gerçekte tur rehberi olmayan Karl, üç arkadaşı çeşitli vaatler ile kandırarak ormanın derinliklerinde bilinmezliğe sürükler.</desc>
+  </programme>
+  <programme start="20200927082000 +0300" stop="20200927101500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">İtalyan Usulü Aşk</title>
+    <title lang="en">Little Italy</title>
+    <desc lang="tr">İki yakın arkadaş olan Sal ve Vince birlikte restoran işletmektedir. Bilinmeyen bir nedenden dolayı araları bozulan ikili birer düşmana dönüşür. Sal'in Londra'da şef olan kızı Nikki'nin dönüp Vince'in oğlu Leo'ya aşık olması ile gerilen ortam Sal'in annesi Franca ve Vince'in babası Carlo'nun evlenmeye karar vermesi ile iyice karışır.</desc>
+  </programme>
+  <programme start="20200927101500 +0300" stop="20200927122000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Motel</title>
+    <title lang="en">The Bag Man</title>
+    <desc lang="tr">İşinde çok profesyonel olan bir kiralık katil bir gün çok iyi para kazanacağı ancak biraz zor bir görev alır. İşi veren ise çok ünlü bir mafya lideridir. Kiralık katilin yapması gereken bir otelde bir kaç adamı öldürmesi ve adamlar otele gelene kadar oradan ayrılmamasıdır. Ancak bu hiç kolay olmayacaktır.</desc>
+  </programme>
+  <programme start="20200927122000 +0300" stop="20200927144500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Yıldızlara Doğru</title>
+    <title lang="en">Ad Astra</title>
+    <desc lang="tr">En İyi Ses Miksajı Oscar'ına aday gösterilen filmde, astronot Roy McBride’nın babası, 20 yıl önce uzayda hayat olup olmadığını araştırmakla görevlendirilmiştir. Ancak bu görev sırasında kaybolan adamdan bir daha haber alınamaz. Kaybolan babasını galakside aramak isteyen Roy, gezegeni tehdit eden bir gizemi de çözmek amacıyla güneş sisteminin dışına yolculuk eder.</desc>
+  </programme>
+  <programme start="20200927144500 +0300" stop="20200927170000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Brooklyn</title>
+    <desc lang="tr">Film, En İyi Film, En İyi Kadın Oyuncu ve En İyi Uyarlama Senaryo dallarında Oscar'a aday gösterilen filmde, Eilis Lacey'i İrlanda'nın fakir mahallelerinden birinde yokluk içinde yaşayan bir kızdır. Sevmediği bir işte annesinin hatrına çalışan Ellis'e kasabasındaki kilise papazı yardımcı olur ve onu Amerika'ya güvenilir bir tanıdığın yanına gönderir.</desc>
+  </programme>
+  <programme start="20200927170000 +0300" stop="20200927195500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Asfaltın Kralları</title>
+    <title lang="en">Ford v Ferrari</title>
+    <desc lang="tr">Ford'un Ferrari'yi satın alma girişimi başarısızlıkla sonlanınca Henry Ford, Ferrari'yi yarışta yenecek yeni bir spor araba üretilmesi görevini Carroll Shelby'e verir. Ken Miles ise başarılı bir yarış pilotudur. Bu ikiliyi bir araya getiren olay ise 1966 yılındaki 24 saatlik Le Mans yarışıdır. 2 dalda Oscar kazanan film, 3 En İyi Film dahil 3 dalda daha Oscar'a aday gösterilmiştir.</desc>
+  </programme>
+  <programme start="20200927195500 +0300" stop="20200927222500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Terminatör: Kara Kader</title>
+    <title lang="en">Terminatör:Dark Fate</title>
+    <desc lang="tr">Dani Ramos, Mexico City'de ailesi ile birlikte sıradan bir yaşam sürmektedir, ancak gelecekten gelen Rev-9 adı verilen, iki forma dönüşerek öldürme gücü iki katına çıkan insan-robot karışımı hibrit terminatör Dani'yi öldürmek üzere hedefine yönelir. Dani'nin kurtulması, gelecekten gelen süper asker olan Grace ve Sarah Connor'a bağlıdır.</desc>
+  </programme>
+  <programme start="20200927222500 +0300" stop="20200928010500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Limehouse Katili</title>
+    <title lang="en">The Limehouse Golem</title>
+    <desc lang="tr">Bir dizi cinayet, halkı sarsar ve halk insanların Golem adındaki efsanevi bir canlının cinayetlerden sorumlu olduğuna inanmaya başlar. Judaik mitolojiden gelen bu canlı kil ve çamurdan oluşmuş ve ritüeller ile büyülerle canlandırılmış bir yaratıktır. Scotland Yard müfettişi Kildare'e bu çözülmesi zor cinayetlerin sorumlusunu bulma görevi verilir.</desc>
+  </programme>
+  <programme start="20200928010500 +0300" stop="20200928030000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Motel</title>
+    <title lang="en">The Bag Man</title>
+    <desc lang="tr">İşinde çok profesyonel olan bir kiralık katil bir gün çok iyi para kazanacağı ancak biraz zor bir görev alır. İşi veren ise çok ünlü bir mafya lideridir. Kiralık katilin yapması gereken bir otelde bir kaç adamı öldürmesi ve adamlar otele gelene kadar oradan ayrılmamasıdır. Ancak bu hiç kolay olmayacaktır.</desc>
+  </programme>
+  <programme start="20200928030000 +0300" stop="20200928050000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Brooklyn</title>
+    <desc lang="tr">Film, En İyi Film, En İyi Kadın Oyuncu ve En İyi Uyarlama Senaryo dallarında Oscar'a aday gösterilen filmde, Eilis Lacey'i İrlanda'nın fakir mahallelerinden birinde yokluk içinde yaşayan bir kızdır. Sevmediği bir işte annesinin hatrına çalışan Ellis'e kasabasındaki kilise papazı yardımcı olur ve onu Amerika'ya güvenilir bir tanıdığın yanına gönderir.</desc>
+  </programme>
+  <programme start="20200928050000 +0300" stop="20200928071000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Yıldızlara Doğru</title>
+    <title lang="en">Ad Astra</title>
+    <desc lang="tr">En İyi Ses Miksajı Oscar'ına aday gösterilen filmde, astronot Roy McBride’nın babası, 20 yıl önce uzayda hayat olup olmadığını araştırmakla görevlendirilmiştir. Ancak bu görev sırasında kaybolan adamdan bir daha haber alınamaz. Kaybolan babasını galakside aramak isteyen Roy, gezegeni tehdit eden bir gizemi de çözmek amacıyla güneş sisteminin dışına yolculuk eder.</desc>
+  </programme>
+  <programme start="20200928071000 +0300" stop="20200928095000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Asfaltın Kralları</title>
+    <title lang="en">Ford v Ferrari</title>
+    <desc lang="tr">Ford'un Ferrari'yi satın alma girişimi başarısızlıkla sonlanınca Henry Ford, Ferrari'yi yarışta yenecek yeni bir spor araba üretilmesi görevini Carroll Shelby'e verir. Ken Miles ise başarılı bir yarış pilotudur. Bu ikiliyi bir araya getiren olay ise 1966 yılındaki 24 saatlik Le Mans yarışıdır. 2 dalda Oscar kazanan film, 3 En İyi Film dahil 3 dalda daha Oscar'a aday gösterilmiştir.</desc>
+  </programme>
+  <programme start="20200928095000 +0300" stop="20200928115000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Neredeyse Arkadaşlar</title>
+    <title lang="en">Almost Friends</title>
+    <desc lang="tr">Gelecek vaadeden bir aşçı adayı olan Charlie, sinemada çalışarak hayatını sürdürmektedir. Amber isminde kahvecide çalışan kızla karşılaşana kadar hayatının ne kadar perişan olduğunun farkında değildir. Amber, Charlie'nin dikkatini dağıtır ve Charlie hayatına onun sayesinde tekrar çeki düzen vermeye başlar.</desc>
+  </programme>
+  <programme start="20200928115000 +0300" stop="20200928150500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Gizli Bir Yaşam</title>
+    <title lang="en">A Hidden Life</title>
+    <desc lang="tr">İkinci Dünya Savaşı sırasında Nazi ideolojisi Avusturya'da hızla benimsenirken, Hitler'e bağlılığı reddeden vicdani retçi Franz Jagerstatter'in vatana ihanet suçuyla idama mahkum edilmesi söz konusudur. Avusturyalı çiftçi Jagerstatter, bu dönemde en büyük gücü ailesinden ve kendi ideolojisine inancından alır.</desc>
+  </programme>
+  <programme start="20200928150500 +0300" stop="20200928170000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">İstikamet: Düğün</title>
+    <title lang="en">Destination Wedding</title>
+    <desc lang="tr">Frank ve Lindsay davetli olarak katıldıkları düğüne giderken yolda tanışırlar. Yaşadıkları hayattan mutsuz olan Frank ve Lindsay tanıştıkları ilk andan itibaren birbirlerinden hoşlanmamalarına rağmen bütün hafta sonunu birlikte geçirmek zorunda kalırlar. Yaşadıkları maceralar ikilinin yakınlaşmasına neden olur. Filmin başrollerini Winona Ryder ve Keanu Reeves paylaşıyor.</desc>
+  </programme>
+  <programme start="20200928170000 +0300" stop="20200928191500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Tavşan Jojo</title>
+    <title lang="en">Jojo Rabbit</title>
+    <desc lang="tr">En İyi Uyarlama Senaryo dalında Oscar kazanıp 5 dalda daha aday olan filmde, Hitler'in gençlik kamplarında yer alan Jojo Betzler adındaki bir çocuk, annesinin evlerinde Yahudi bir kızı gizlice misafir ettiğini öğrenir. Kız, evlerinin çatı katında kalıyordur. Tabii bu durum en yakın sırdaşı hayali arkadaşı Adolf Hitler olan Jojo'nun kafasında büyük bir karmaşaya yol açacaktır.</desc>
+  </programme>
+  <programme start="20200928191500 +0300" stop="20200928221500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Alev Almış Bir Genç Kızın Portresi</title>
+    <title lang="en">Potrait of a Lady on Fire</title>
+    <desc lang="tr">Heloise ve ressam Marianne arasında yaşanan, dokunaklı bir aşk. Kontes, gelecekteki kocası İtalyan asilzadeye gönderilmek üzere kızı Heloise'nin portresini çizmesi için ressam Marianne'yi görevlendirir; kendisinden farklı bir yöntemle çalışmasını ister. Marianne kendini yürüyüş arkadaşı olarak tanıtır. İki kadın geçirdikleri beş gün boyunca duygusal olarak yakınlaşırlar.</desc>
+  </programme>
+  <programme start="20200929214000 +0300" stop="20200930000000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Saklambaç</title>
+    <title lang="en">Ready or Not</title>
+    <desc lang="tr">Grace ve Alex evlendikleri gün Grace, daha gelinliğini çıkaramadan, eşinin ailesi tarafından geleneksel aile oyunu dedikleri oyunu oynamak için çağırılır. Oyunu seçme hakkı ailenin yeni üyesi Grace'e verilir ve genç kadın nadiren çıkan saklambaç kartını seçer. Bu oyun bir süre sonra Grace için hayatta kalmak için mücadele ettiği korkunç bir savaşa dönüşür.</desc>
+  </programme>
+  <programme start="20200930000000 +0300" stop="20200930015000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Neredeyse Arkadaşlar</title>
+    <title lang="en">Almost Friends</title>
+    <desc lang="tr">Gelecek vaadeden bir aşçı adayı olan Charlie, sinemada çalışarak hayatını sürdürmektedir. Amber isminde kahvecide çalışan kızla karşılaşana kadar hayatının ne kadar perişan olduğunun farkında değildir. Amber, Charlie'nin dikkatini dağıtır ve Charlie hayatına onun sayesinde tekrar çeki düzen vermeye başlar.</desc>
+  </programme>
+  <programme start="20200930015000 +0300" stop="20200930033000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">İstikamet: Düğün</title>
+    <title lang="en">Destination Wedding</title>
+    <desc lang="tr">Frank ve Lindsay davetli olarak katıldıkları düğüne giderken yolda tanışırlar. Yaşadıkları hayattan mutsuz olan Frank ve Lindsay tanıştıkları ilk andan itibaren birbirlerinden hoşlanmamalarına rağmen bütün hafta sonunu birlikte geçirmek zorunda kalırlar. Yaşadıkları maceralar ikilinin yakınlaşmasına neden olur. Filmin başrollerini Winona Ryder ve Keanu Reeves paylaşıyor.</desc>
+  </programme>
+  <programme start="20200930033000 +0300" stop="20200930063000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Gizli Bir Yaşam</title>
+    <title lang="en">A Hidden Life</title>
+    <desc lang="tr">İkinci Dünya Savaşı sırasında Nazi ideolojisi Avusturya'da hızla benimsenirken, Hitler'e bağlılığı reddeden vicdani retçi Franz Jagerstatter'in vatana ihanet suçuyla idama mahkum edilmesi söz konusudur. Avusturyalı çiftçi Jagerstatter, bu dönemde en büyük gücü ailesinden ve kendi ideolojisine inancından alır.</desc>
+  </programme>
+  <programme start="20200930063000 +0300" stop="20200930083000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Tavşan Jojo</title>
+    <title lang="en">Jojo Rabbit</title>
+    <desc lang="tr">En İyi Uyarlama Senaryo dalında Oscar kazanıp 5 dalda daha aday olan filmde, Hitler'in gençlik kamplarında yer alan Jojo Betzler adındaki bir çocuk, annesinin evlerinde Yahudi bir kızı gizlice misafir ettiğini öğrenir. Kız, evlerinin çatı katında kalıyordur. Tabii bu durum en yakın sırdaşı hayali arkadaşı Adolf Hitler olan Jojo'nun kafasında büyük bir karmaşaya yol açacaktır.</desc>
+  </programme>
+  <programme start="20200930083000 +0300" stop="20200930105000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Sessiz Bir Tutku</title>
+    <title lang="en">A Quiet Passion</title>
+    <desc lang="tr">Yazdığı kısa şiirlerle yaşamındaki en önemli şeyleri etkili bir biçimde anlatan, 1920’lerde Amerika’nın en sevilen şairlerinden biri haline gelen Amerikalı Şair Emily Dickinson’ın genç kızlığından ölümüne kadar olan yaşamının anlatıldığı gerçek yaşam öyküsü.</desc>
+  </programme>
+  <programme start="20200930105000 +0300" stop="20200930125500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Durumunu Güncelle</title>
+    <title lang="en">Status Update</title>
+    <desc lang="tr">Anne ve babası kısa bir süre önce ayrılan Kyle Moore, yeni hayatına alışmaya çalışmaktadır. Yeni bir okula başlayan Kyle içn işler pek de yolunda değildir. Okulda diğer öğrenciler tarafından pek de sevilmemiştir fakat telefonuna yüklediği büyülü bir uygulama her şeyi değiştirir. Kyle'ın tüm paylaşımları uygulama sayesinde gerçek olur.</desc>
+  </programme>
+  <programme start="20200930125500 +0300" stop="20200930150000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Mafyayı Soy</title>
+    <title lang="en">Rob the Mob</title>
+    <desc lang="tr">Gerçek bir hikayeden esinlenerek beyazperdeye aktarulan film, bir dizi mafya kulübünü soymuş ve bunlardan kurtulmayı başarmış bir çiftin ; yeni planladıkları işte hem çetenin hem de FBI’ın hedefi olmalarına yol açan bir dizi olayı konu ediniyor.</desc>
+  </programme>
+  <programme start="20200930150000 +0300" stop="20200930170000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Kapımdaki Aşk</title>
+    <title lang="en">Home Again</title>
+    <desc lang="tr">2 çocuk annesi Alice Kinney yeni boşanmış, 40 yaşında bir kadındır. Doğum günü kutlaması için arkadaşlarıyla dışarı çıktığı akşam 3 genç ve umut vaat eden sinemacıyla tanışır. Ertesi gün annesinin de ısrarıyla bu gençlere evini açmayı kabul eden Alice'in hayatı, ayrılıklarının ardından evdeki durumu duyunca geri dönen eski eşi Austen Blume'un gelişiyle iyice karışır.</desc>
+  </programme>
+  <programme start="20200930170000 +0300" stop="20200930191500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">X-Men: Dark Phoenix</title>
+    <title lang="en">X- Men: Dark Phoenix</title>
+    <desc lang="tr">X-Men ekibinden Jean Grey, uzaydaki bir kurtarma görevi sırasında gizemli kozmik bir güç tarafından darbe alır; ancak bu güç Jean’i dengesiz bir hale getirerek kontrolden çıkarırır. X-Men ekibinin üyeleri hem arkadaşlarını kurtarmak hem de Jean’in gücünü kötü amaçlar için kullanmak isteyenlere karşı mücadele verir.</desc>
+  </programme>
+  <programme start="20200930191500 +0300" stop="20200930221500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Derin Sular</title>
+    <title lang="en">Underwater</title>
+    <desc lang="tr">Bir grup denizaltı ekibi, denizin altındaki laboratuvarlarında önemli araştırmalar yapmaktadır. Çalışmaların devam ettiği sırada, okyanusun dibinde çok büyük bir deprem olur. Deprem, laboratuvarın hasar görmesine neden olunca, araştırmacılar denizin kilometrelerce derinliklerinde mahsur kalır.</desc>
+  </programme>
+  <programme start="20201001211000 +0300" stop="20201001224500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Piramitin Laneti</title>
+    <title lang="en">Pyramid, The</title>
+    <desc lang="tr">Bir grup Amerikalı arkeolog, Mısır çöllerinin derinliklerine gömülmüş olan antik çağ piramitlerinden birini gün yüzüne çıkartır. Fakat sonsuz gibi görünen, karanlık duvarları arasında kaybolurlar. Dışarı çıkacak bir yol ararken, gün ışığını bir daha görme umutlarını gitgide kaybederler. Piramitte hem kıstırılmışlardır, hem de tek tek avlanmaktadırlar.</desc>
+  </programme>
+  <programme start="20201001224500 +0300" stop="20201002005500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Sessiz Bir Tutku</title>
+    <title lang="en">A Quiet Passion</title>
+    <desc lang="tr">Yazdığı kısa şiirlerle yaşamındaki en önemli şeyleri etkili bir biçimde anlatan, 1920’lerde Amerika’nın en sevilen şairlerinden biri haline gelen Amerikalı Şair Emily Dickinson’ın genç kızlığından ölümüne kadar olan yaşamının anlatıldığı gerçek yaşam öyküsü.</desc>
+  </programme>
+  <programme start="20201002005500 +0300" stop="20201002024500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Durumunu Güncelle</title>
+    <title lang="en">Status Update</title>
+    <desc lang="tr">Anne ve babası kısa bir süre önce ayrılan Kyle Moore, yeni hayatına alışmaya çalışmaktadır. Yeni bir okula başlayan Kyle içn işler pek de yolunda değildir. Okulda diğer öğrenciler tarafından pek de sevilmemiştir fakat telefonuna yüklediği büyülü bir uygulama her şeyi değiştirir. Kyle'ın tüm paylaşımları uygulama sayesinde gerçek olur.</desc>
+  </programme>
+  <programme start="20201002024500 +0300" stop="20201002043000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Kapımdaki Aşk</title>
+    <title lang="en">Home Again</title>
+    <desc lang="tr">2 çocuk annesi Alice Kinney yeni boşanmış, 40 yaşında bir kadındır. Doğum günü kutlaması için arkadaşlarıyla dışarı çıktığı akşam 3 genç ve umut vaat eden sinemacıyla tanışır. Ertesi gün annesinin de ısrarıyla bu gençlere evini açmayı kabul eden Alice'in hayatı, ayrılıklarının ardından evdeki durumu duyunca geri dönen eski eşi Austen Blume'un gelişiyle iyice karışır.</desc>
+  </programme>
+  <programme start="20201002043000 +0300" stop="20201002062000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Mafyayı Soy</title>
+    <title lang="en">Rob the Mob</title>
+    <desc lang="tr">Gerçek bir hikayeden esinlenerek beyazperdeye aktarulan film, bir dizi mafya kulübünü soymuş ve bunlardan kurtulmayı başarmış bir çiftin ; yeni planladıkları işte hem çetenin hem de FBI’ın hedefi olmalarına yol açan bir dizi olayı konu ediniyor.</desc>
+  </programme>
+  <programme start="20201002062000 +0300" stop="20201002082000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">X-Men: Dark Phoenix</title>
+    <title lang="en">X- Men: Dark Phoenix</title>
+    <desc lang="tr">X-Men ekibinden Jean Grey, uzaydaki bir kurtarma görevi sırasında gizemli kozmik bir güç tarafından darbe alır; ancak bu güç Jean’i dengesiz bir hale getirerek kontrolden çıkarırır. X-Men ekibinin üyeleri hem arkadaşlarını kurtarmak hem de Jean’in gücünü kötü amaçlar için kullanmak isteyenlere karşı mücadele verir.</desc>
+  </programme>
+  <programme start="20201002082000 +0300" stop="20201002103500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Cellat</title>
+    <title lang="en">Shot Caller</title>
+    <desc lang="tr">Kendi halinde bir aile babasıyken alkollü araç kullandığı için bir kişinin ölümüne sebep olan Harlon, bir anda kendini yaşamından tamamen zıt koşullar içinde bulduğu hapishane ortamında şiddet ve türevleriyle tanışır. Harlon eski kimliğini, yaşamı ve ailesiyle ilişkisini yitirmeye başlarken etrafında gelişen olaylar da büründüğü yeni hali şekillendirmeye devam eder.</desc>
+  </programme>
+  <programme start="20201002103500 +0300" stop="20201002125000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Küçük Bir Rica</title>
+    <title lang="en">A Simple Favor</title>
+    <desc lang="tr">Kendi çektiği videolarla çevresinde tanınan ,Stephanie, oğlunun arkadaşının annesi Emily ile dostluk kurar. Stephanie bir gün Emily’den küçük bir ricada bulunarak oğlunu okuldan almasını ister; ancak ricayı yerine getiren Emily esrarengiz bir şekilde ortadan kaybolur. Sıradan bir ev kadını olan Stephanie, Emily’i ararken kendini gizemli olayların içinde bulur.</desc>
+  </programme>
+  <programme start="20201002125000 +0300" stop="20201002145500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Kurye</title>
+    <title lang="en">The Courier</title>
+    <desc lang="tr">Kuryelik yapan genç bir kadın, her zamanki gibi kendisine verilen paketleri dağıtmaktadır. Bu sırada paketlerden birinin içinde bir bomba olduğunu farkeder ve o andan itibaren hayatı hiç de beklemediği bir yöne doğru gider.</desc>
+  </programme>
+  <programme start="20201002145500 +0300" stop="20201002170000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Ajanlar İş Başında</title>
+    <title lang="en">Spies in Disguise</title>
+    <desc lang="tr">Birbilerinden oldukça zıt karakterlere sahip olan Walter ve Lance isimli iki ajan tehlike altındaki dünyayı koruyabilmek için birlikte çalışmalı ve daha önemlisi birbirlerine güvenmelidirler.</desc>
+  </programme>
+  <programme start="20201002170000 +0300" stop="20201002185500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Sıradan Aşk</title>
+    <title lang="en">Ordinary Love</title>
+    <desc lang="tr">Birbirlerine derin bir sevgiyle bağlı olan Joan ve Tom'un uzun yıllardır süren mutlu,keyifli evlilikleri, Joan'a kanser teşhisi konulmasıyla güçlü bir sınavdan geçer. Bu süreci en az hasarla atlatmaya çalışan çift, aşk ve hayatla ilgili birtakım epik sorulara cevap arar.</desc>
+  </programme>
+  <programme start="20201002185500 +0300" stop="20201002215500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Kitap Kulübü</title>
+    <title lang="en">Book Club</title>
+    <desc lang="tr">Kariyer hayatlarında başarıya ulaşmış, elli yaşın üstünde dört kadın Diane, Carol Sharon ve Vivian yakın arkadaştırlar ve bir kitap kulüpleri vardır. Kitap seçme sırası Vivian'a gelince önerisi Gri'nin Elli Tonu olur. Kitaptan etkilenen dört yakın arkadaş yolunda gitmeyen aşk hayatlarını değiştirmeye karar verirler.</desc>
+  </programme>
+  <programme start="20201003210500 +0300" stop="20201003224500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Gece Gelen</title>
+    <title lang="en">It Comes at Night</title>
+    <desc lang="tr">Paul, terk edilmiş güvenli bir evde eşi ve oğluyla kendine bir düzen kurmuş bir aile babasıdır. Tüm dünyayı terörize eden alışılmadık bir tehditten korunmak için büyük bir emek harcayan babanın kararlılığı genç ve umutsuz bir gencin eve sığınmak istemesiyle sarsılacaktır.</desc>
+  </programme>
+  <programme start="20201003224500 +0300" stop="20201004014000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Cellat</title>
+    <title lang="en">Shot Caller</title>
+    <desc lang="tr">Kendi halinde bir aile babasıyken alkollü araç kullandığı için bir kişinin ölümüne sebep olan Harlon, bir anda kendini yaşamından tamamen zıt koşullar içinde bulduğu hapishane ortamında şiddet ve türevleriyle tanışır. Harlon eski kimliğini, yaşamı ve ailesiyle ilişkisini yitirmeye başlarken etrafında gelişen olaylar da büründüğü yeni hali şekillendirmeye devam eder.</desc>
+  </programme>
+  <programme start="20201004014000 +0300" stop="20201004034500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Küçük Bir Rica</title>
+    <title lang="en">A Simple Favor</title>
+    <desc lang="tr">Kendi çektiği videolarla çevresinde tanınan ,Stephanie, oğlunun arkadaşının annesi Emily ile dostluk kurar. Stephanie bir gün Emily’den küçük bir ricada bulunarak oğlunu okuldan almasını ister; ancak ricayı yerine getiren Emily esrarengiz bir şekilde ortadan kaybolur. Sıradan bir ev kadını olan Stephanie, Emily’i ararken kendini gizemli olayların içinde bulur.</desc>
+  </programme>
+  <programme start="20201004034500 +0300" stop="20201004053500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Ajanlar İş Başında</title>
+    <title lang="en">Spies in Disguise</title>
+    <desc lang="tr">Birbilerinden oldukça zıt karakterlere sahip olan Walter ve Lance isimli iki ajan tehlike altındaki dünyayı koruyabilmek için birlikte çalışmalı ve daha önemlisi birbirlerine güvenmelidirler.</desc>
+  </programme>
+  <programme start="20201004053500 +0300" stop="20201004072500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Kurye</title>
+    <title lang="en">The Courier</title>
+    <desc lang="tr">Kuryelik yapan genç bir kadın, her zamanki gibi kendisine verilen paketleri dağıtmaktadır. Bu sırada paketlerden birinin içinde bir bomba olduğunu farkeder ve o andan itibaren hayatı hiç de beklemediği bir yöne doğru gider.</desc>
+  </programme>
+  <programme start="20201004072500 +0300" stop="20201004090500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Sıradan Aşk</title>
+    <title lang="en">Ordinary Love</title>
+    <desc lang="tr">Birbirlerine derin bir sevgiyle bağlı olan Joan ve Tom'un uzun yıllardır süren mutlu,keyifli evlilikleri, Joan'a kanser teşhisi konulmasıyla güçlü bir sınavdan geçer. Bu süreci en az hasarla atlatmaya çalışan çift, aşk ve hayatla ilgili birtakım epik sorulara cevap arar.</desc>
+  </programme>
+  <programme start="20201004090500 +0300" stop="20201004105000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Garantili Ölüm (Yoksa Paran İade)</title>
+    <title lang="en">Yoksa Paran İade</title>
+    <desc lang="tr">Yirmi yedi yaşındaki William, dokuzuncu intihar denemesinde de başarılı olamayınca yaşlı bir tetikçi olan Leslie'den yardım alır. Her şey ayarlandığında William hayallerinin kadını ile tanışır.; fakat Leslie'nin de suikastçılar birliği üyeliğini elinde tutabilmek için aylık kotasını doldurması gerekmektedir. İşler iki adam için de karmakarışık bir hal alır.</desc>
+  </programme>
+  <programme start="20201004105000 +0300" stop="20201004125000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Küçük Joe</title>
+    <title lang="en">Little Joe</title>
+    <desc lang="tr">Laboratuvar ortamında yaratılan bir bitki olan Küçük Joe'yu koklayanlar hızlı bir şekilde mutluluk hissetmektedir. Ancak insanlara mutluluk veren bu küçük tatlı bitkinin polenini içine çekenler bir daha asla aynı hallerine dönememektedir!</desc>
+  </programme>
+  <programme start="20201004125000 +0300" stop="20201004145000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Travma Merkezi</title>
+    <title lang="en">Trauma Center</title>
+    <desc lang="tr">Dedektif Wakes, karısının cinayete kurban gitmesinin ardından intikam yemini eder. Katillerin peşine düşen Wakes, bu sırada cinayet sırasında olay yerinde yaralanan Madison’ı koruma altına alır. Cinayetin tek kanıtı Madison’ın bacağında kurşundur ve katiller kadının peşindedir. Wakes, her şeyi kontrol altına aldığını düşünürken beklenmedik bir olay ile karşı karşıya kalır.</desc>
+  </programme>
+  <programme start="20201004145000 +0300" stop="20201004170000 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Yangın Yeri</title>
+    <title lang="en">Wildlife</title>
+    <desc lang="tr">Genç oyuncular Paul Dano ve Zoe Kazan'ın birlikte kaleme aldıkları, Paul Dano'nun aynı zamanda yönetmen koltuğunda oturduğu filmde, dağılmak üzere olan bir ailede büyüyen 14 yaşındaki Joe'nun hayatına odaklanıyoruz.</desc>
+  </programme>
+  <programme start="20201004170000 +0300" stop="20201004192500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Skandal</title>
+    <title lang="en">Bombshell</title>
+    <desc lang="tr">En İyi Saç ve Makyaj Oscar'ı kazanıp, Charlize Theron ve Margot Robbie'e üstün performanslarıyla Oscar adaylığı getiren filmde, Fox News kanalındaki bir taciz skandalına karşı birleşen ve skandalı ortaya çıkarmaya karar veren bir grup kadının mücadelesi ekrana geliyor.</desc>
+  </programme>
+  <programme start="20201004192500 +0300" stop="20201004222500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Zaman Yolcuları</title>
+    <title lang="en">Time Freak</title>
+    <desc lang="tr">Fizik öğrencisi Stillman, kız arkadaşı Debbie'den ayrıldıktan sonra kendisini bir türlü toparlayamaz. Genç adam, ilişkilerini düzeltip yeniden bir araya gelmenin yollarını ararken, aklına bir fikir gelir. Bir zaman makinesi icat etmeyi planlayan Stillman, bu sayede Debbie ile ilişkilerinin başladığı güne geri dönecek ve tüm hatalarını telafi etme imkanı bulabilecektir.</desc>
+  </programme>
+  <programme start="20201005213500 +0300" stop="20201005231500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Yabani</title>
+    <title lang="en">Wildling</title>
+    <desc lang="tr">Anna, baba olarak bildiği bir adam tarafından toplumdan uzak bir şekilde kendisi ile ilgili gerçeği bilmeden büyütülmüştür. Polis memuru Ellen'ın koruması altında gerçek dünyaya adım attığında, genç kızın sıradanlıktan çok uzak olduğu anlaşılacaktır. Anna, bir yandan içinde artmakta olan kana susamışlık hissiyle savaşırken, bir yandan da kendini vahşi doğaya çekilirken bulur.</desc>
+  </programme>
+  <programme start="20201005231500 +0300" stop="20201006013500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Garantili Ölüm (Yoksa Paran İade)</title>
+    <title lang="en">Yoksa Paran İade</title>
+    <desc lang="tr">Yirmi yedi yaşındaki William, dokuzuncu intihar denemesinde de başarılı olamayınca yaşlı bir tetikçi olan Leslie'den yardım alır. Her şey ayarlandığında William hayallerinin kadını ile tanışır.; fakat Leslie'nin de suikastçılar birliği üyeliğini elinde tutabilmek için aylık kotasını doldurması gerekmektedir. İşler iki adam için de karmakarışık bir hal alır.</desc>
+  </programme>
+  <programme start="20201006013500 +0300" stop="20201006043500 +0300" channel="MovieSmart Premium">
+    <title lang="tr">Küçük Joe</title>
+    <title lang="en">Little Joe</title>
+    <desc lang="tr">Laboratuvar ortamında yaratılan bir bitki olan Küçük Joe'yu koklayanlar hızlı bir şekilde mutluluk hissetmektedir. Ancak insanlara mutluluk veren bu küçük tatlı bitkinin polenini içine çekenler bir daha asla aynı hallerine dönememektedir!</desc>
+  </programme>
+  <programme start="20200925215000 +0300" stop="20200925221500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200925221500 +0300" stop="20200926000700 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Acı ve Zafer</title>
+    <title lang="en">Pain and Glory</title>
+    <desc lang="tr">Pedro Almodavar'ın kendi yaşam öyküsünden yola çıkarak çektiği film, Mallo adlı başarılı bir yönetmenin yaşamında iz bırakan olayları konu ediniyor. Mallo'nun çocukluğunu yaşadığı 60'lı yıllara, annesiyle birlikte Valencia'ya göç etmesine, 80'lerin Madrid'inde yaşadığı ilk aşkına, kendisi için kurtuluş ve terapi aracı olan yazı ve sinema ile tanışmasına değiniliyor.(n)</desc>
+  </programme>
+  <programme start="20200926000700 +0300" stop="20200926002000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926002000 +0300" stop="20200926015500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Diane</title>
+    <desc lang="tr">Dul bir kadın olan Diane, emekli hayatını bir yandan eroin bağımlısı huysuz oğlu ile uğraşarak bir yandan da ölüm döşeğindeki kuzenini hastanede ziyaret ederek geçirmektedir. Oğluna, kuzenine ve çevresindeki diğer insanlara kol kanat geren Diane'in aklını uzun süredir bir şey kurcalamaktadır. Hayatına dokunduğu insanların kaderinden sorumlu olup olmadığı...</desc>
+  </programme>
+  <programme start="20200926015500 +0300" stop="20200926022000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Hollywood's Best Film Directors</title>
+  </programme>
+  <programme start="20200926022000 +0300" stop="20200926023000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926023000 +0300" stop="20200926042100 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Çarpık Evdeki Cesetler</title>
+    <title lang="en">Crooked House</title>
+    <desc lang="tr">Zengin ve acımasız bir iş adamı olan Aristide Leonides'in şüpheli ölümü üzerine torunu Sophia, eskiden diplomat olan şimdi ise özel dedektif olarak çalışan eski sevgilisi Charles Hayward'dan olayı soruşturmasını ister. Agatha Christie romanından beyaz perdeye aktarılan filmde, herkesin şüpheli olduğu bir ortamda asıl suçluyu bulmaya çalışan Charles'ın işi kolay olmayacaktır.</desc>
+  </programme>
+  <programme start="20200926042100 +0300" stop="20200926043500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926043500 +0300" stop="20200926060800 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Travma Merkezi</title>
+    <title lang="en">Trauma Center</title>
+    <desc lang="tr">Dedektif Wakes, karısının cinayete kurban gitmesinin ardından intikam yemini eder. Katillerin peşine düşen Wakes, bu sırada cinayet sırasında olay yerinde yaralanan Madison’ı koruma altına alır. Cinayetin tek kanıtı Madison’ın bacağında kurşundur ve katiller kadının peşindedir. Wakes, her şeyi kontrol altına aldığını düşünürken beklenmedik bir olay ile karşı karşıya kalır.</desc>
+  </programme>
+  <programme start="20200926060800 +0300" stop="20200926062000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926062000 +0300" stop="20200926080800 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Aile Babası</title>
+    <title lang="en">A Family Man</title>
+    <desc lang="tr">Dane Jensen, Blackrock Recruiting şirketi için çalışan ve şirkete alınacak elemanların da kararını veren teknik eleman avcısıdır. Dane, şirkette en üst seviyeye çıkabilmek için fırsat kollamakta ve azimle çalışmaktadır. Tam da bu sırada çocuğu hastalanan Dane, işi ya da ailesi arasında bir seçim yapmalı ve önceliklerini belirlemelidir.</desc>
+  </programme>
+  <programme start="20200926080800 +0300" stop="20200926082000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926082000 +0300" stop="20200926094700 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Soğuk Savaş</title>
+    <title lang="en">Cold War</title>
+    <desc lang="tr">Halk şarkıları ve dansları topluluğu kurmayı hedefleyen Wictor ve Irena topluluğa katılacak sanatçılar için seçme düzenler. Seçmelere katılan Zula ile Wiktor arasında bir aşk başlar. İki sevgilinin 50’li yıllarda Polonya’dan Berlin’e , Yugoslavya’dan Paris’e uzanan tutkulu aşklarının ve savaş sonrası dönemin anlatıldığı film 3 dalda Oscar adayı olmuştur.</desc>
+  </programme>
+  <programme start="20200926094700 +0300" stop="20200926095500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926095500 +0300" stop="20200926112500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Sıradan Aşk</title>
+    <title lang="en">Ordinary Love</title>
+    <desc lang="tr">Birbirlerine derin bir sevgiyle bağlı olan Joan ve Tom'un uzun yıllardır süren mutlu,keyifli evlilikleri, Joan'a kanser teşhisi konulmasıyla güçlü bir sınavdan geçer. Bu süreci en az hasarla atlatmaya çalışan çift, aşk ve hayatla ilgili birtakım epik sorulara cevap arar.</desc>
+  </programme>
+  <programme start="20200926112500 +0300" stop="20200926114000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926114000 +0300" stop="20200926132700 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Tolkien</title>
+    <desc lang="tr">Yazar, şair, filolog ve profesör olan Ronald Tolkien’in gerçek yaşam öyküsü... Çocukluğunda yetim kalan Ronald Tolkien’in kardeşi ile birlikte geldiği Londra’da yaşadıkları, savaşın yaşamındaki etkileri,dostlukları ve tüm bu dramlardan fantastik edebiyat ve zengin hayal gücüyle kurtuluşunun anlatıldığı film, izleyiciye Tolkien’i yakından tanıma fırsatı veriyor.</desc>
+  </programme>
+  <programme start="20200926132700 +0300" stop="20200926135000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926135000 +0300" stop="20200926153900 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Lefty Brown'un Türküsü</title>
+    <title lang="en">The Ballad of Lefty Brown</title>
+    <desc lang="tr">Kovboy Lefty Brown, uzun süredir ortağı olan ve yeni seçilen Senatör Edward Johnson'nın öldürülmesine tanık olduktan sonra katilleri bulmak ve arkadaşının korkunç ölümünün intikamını almak ister. Lefty, büyük ve ıssız Montana ovalarında kanun kaçaklarını takip etmek ve adalete teslim etmek için genç bir silahşör Yeremiah ve alkolik olan eski bir askeri işe alır.</desc>
+  </programme>
+  <programme start="20200926153900 +0300" stop="20200926160500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926160500 +0300" stop="20200926180500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Lucy Gözkyüzünde</title>
+    <title lang="en">Lucy in the Sky</title>
+    <desc lang="tr">Film, bir görev sonrası Dünya'ya dönen ve bir meslektaşıyla ilişkiye başlayan evli bir astronotu konu alırken, uzayda uzun süre vakit geçiren astronotların eve döndükten sonra gerçeklik algılarını kaybetmesi teorisine odaklanıyor.</desc>
+  </programme>
+  <programme start="20200926180500 +0300" stop="20200926183000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926183000 +0300" stop="20200926202200 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Orman</title>
+    <title lang="en">Jungle</title>
+    <desc lang="tr">1980 yılında bir grup arkadaş gezgin Yossi, öğretmen Marcus ve fotoğraf sanatçısı Kevin merak ettikleri Güney Amerika’ya yolculuk yapmaya karar verirler. Gezi sırasında kendisini tur rehberi olarak tanıtan Karl ile tanışırlar. Gerçekte tur rehberi olmayan Karl, üç arkadaşı çeşitli vaatler ile kandırarak ormanın derinliklerinde bilinmezliğe sürükler.</desc>
+  </programme>
+  <programme start="20200926202200 +0300" stop="20200926205000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200926205000 +0300" stop="20200926225500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">İtalyan Usulü Aşk</title>
+    <title lang="en">Little Italy</title>
+    <desc lang="tr">İki yakın arkadaş olan Sal ve Vince birlikte restoran işletmektedir. Bilinmeyen bir nedenden dolayı araları bozulan ikili birer düşmana dönüşür. Sal'in Londra'da şef olan kızı Nikki'nin dönüp Vince'in oğlu Leo'ya aşık olması ile gerilen ortam Sal'in annesi Franca ve Vince'in babası Carlo'nun evlenmeye karar vermesi ile iyice karışır.</desc>
+  </programme>
+  <programme start="20200927222800 +0300" stop="20200927225500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200927225500 +0300" stop="20200928005000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Boynuzlar</title>
+    <title lang="en">Horns</title>
+    <desc lang="tr">Kız arkadaşının gizemli ölümünün ardından Ig Perrish, cinayetin bir numaralı şüphelisi ilan edilir. Cinayetin yanı sıra gizemini çözmesi gereken diğer bir şey de; bir sabah uyandığında başında çıkan iki boynuzun ne anlama geldiğidir.</desc>
+  </programme>
+  <programme start="20200928005000 +0300" stop="20200928011700 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Hollywood's Best Film Directors</title>
+  </programme>
+  <programme start="20200928011700 +0300" stop="20200928013500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200928013500 +0300" stop="20200928032200 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Tolkien</title>
+    <desc lang="tr">Yazar, şair, filolog ve profesör olan Ronald Tolkien’in gerçek yaşam öyküsü... Çocukluğunda yetim kalan Ronald Tolkien’in kardeşi ile birlikte geldiği Londra’da yaşadıkları, savaşın yaşamındaki etkileri,dostlukları ve tüm bu dramlardan fantastik edebiyat ve zengin hayal gücüyle kurtuluşunun anlatıldığı film, izleyiciye Tolkien’i yakından tanıma fırsatı veriyor.</desc>
+  </programme>
+  <programme start="20200928032200 +0300" stop="20200928033500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20200928033500 +0300" stop="20200928054500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Lucy Gözkyüzünde</title>
+    <title lang="en">Lucy in the Sky</title>
+    <desc lang="tr">Film, bir görev sonrası Dünya'ya dönen ve bir meslektaşıyla ilişkiye başlayan evli bir astronotu konu alırken, uzayda uzun süre vakit geçiren astronotların eve döndükten sonra gerçeklik algılarını kaybetmesi teorisine odaklanıyor.</desc>
+  </programme>
+  <programme start="20200928054500 +0300" stop="20200928074500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Lefty Brown'un Türküsü</title>
+    <title lang="en">The Ballad of Lefty Brown</title>
+    <desc lang="tr">Kovboy Lefty Brown, uzun süredir ortağı olan ve yeni seçilen Senatör Edward Johnson'nın öldürülmesine tanık olduktan sonra katilleri bulmak ve arkadaşının korkunç ölümünün intikamını almak ister. Lefty, büyük ve ıssız Montana ovalarında kanun kaçaklarını takip etmek ve adalete teslim etmek için genç bir silahşör Yeremiah ve alkolik olan eski bir askeri işe alır.</desc>
+  </programme>
+  <programme start="20200928074500 +0300" stop="20200928095000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Orman</title>
+    <title lang="en">Jungle</title>
+    <desc lang="tr">1980 yılında bir grup arkadaş gezgin Yossi, öğretmen Marcus ve fotoğraf sanatçısı Kevin merak ettikleri Güney Amerika’ya yolculuk yapmaya karar verirler. Gezi sırasında kendisini tur rehberi olarak tanıtan Karl ile tanışırlar. Gerçekte tur rehberi olmayan Karl, üç arkadaşı çeşitli vaatler ile kandırarak ormanın derinliklerinde bilinmezliğe sürükler.</desc>
+  </programme>
+  <programme start="20200928095000 +0300" stop="20200928114500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">İtalyan Usulü Aşk</title>
+    <title lang="en">Little Italy</title>
+    <desc lang="tr">İki yakın arkadaş olan Sal ve Vince birlikte restoran işletmektedir. Bilinmeyen bir nedenden dolayı araları bozulan ikili birer düşmana dönüşür. Sal'in Londra'da şef olan kızı Nikki'nin dönüp Vince'in oğlu Leo'ya aşık olması ile gerilen ortam Sal'in annesi Franca ve Vince'in babası Carlo'nun evlenmeye karar vermesi ile iyice karışır.</desc>
+  </programme>
+  <programme start="20200928114500 +0300" stop="20200928135000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Motel</title>
+    <title lang="en">The Bag Man</title>
+    <desc lang="tr">İşinde çok profesyonel olan bir kiralık katil bir gün çok iyi para kazanacağı ancak biraz zor bir görev alır. İşi veren ise çok ünlü bir mafya lideridir. Kiralık katilin yapması gereken bir otelde bir kaç adamı öldürmesi ve adamlar otele gelene kadar oradan ayrılmamasıdır. Ancak bu hiç kolay olmayacaktır.</desc>
+  </programme>
+  <programme start="20200928135000 +0300" stop="20200928161500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Yıldızlara Doğru</title>
+    <title lang="en">Ad Astra</title>
+    <desc lang="tr">En İyi Ses Miksajı Oscar'ına aday gösterilen filmde, astronot Roy McBride’nın babası, 20 yıl önce uzayda hayat olup olmadığını araştırmakla görevlendirilmiştir. Ancak bu görev sırasında kaybolan adamdan bir daha haber alınamaz. Kaybolan babasını galakside aramak isteyen Roy, gezegeni tehdit eden bir gizemi de çözmek amacıyla güneş sisteminin dışına yolculuk eder.</desc>
+  </programme>
+  <programme start="20200928161500 +0300" stop="20200928183000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Brooklyn</title>
+    <desc lang="tr">Film, En İyi Film, En İyi Kadın Oyuncu ve En İyi Uyarlama Senaryo dallarında Oscar'a aday gösterilen filmde, Eilis Lacey'i İrlanda'nın fakir mahallelerinden birinde yokluk içinde yaşayan bir kızdır. Sevmediği bir işte annesinin hatrına çalışan Ellis'e kasabasındaki kilise papazı yardımcı olur ve onu Amerika'ya güvenilir bir tanıdığın yanına gönderir.</desc>
+  </programme>
+  <programme start="20200928183000 +0300" stop="20200928212500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Asfaltın Kralları</title>
+    <title lang="en">Ford v Ferrari</title>
+    <desc lang="tr">Ford'un Ferrari'yi satın alma girişimi başarısızlıkla sonlanınca Henry Ford, Ferrari'yi yarışta yenecek yeni bir spor araba üretilmesi görevini Carroll Shelby'e verir. Ken Miles ise başarılı bir yarış pilotudur. Bu ikiliyi bir araya getiren olay ise 1966 yılındaki 24 saatlik Le Mans yarışıdır. 2 dalda Oscar kazanan film, 3 En İyi Film dahil 3 dalda daha Oscar'a aday gösterilmiştir.</desc>
+  </programme>
+  <programme start="20200928212500 +0300" stop="20200928235500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Terminatör: Kara Kader</title>
+    <title lang="en">Terminatör:Dark Fate</title>
+    <desc lang="tr">Dani Ramos, Mexico City'de ailesi ile birlikte sıradan bir yaşam sürmektedir, ancak gelecekten gelen Rev-9 adı verilen, iki forma dönüşerek öldürme gücü iki katına çıkan insan-robot karışımı hibrit terminatör Dani'yi öldürmek üzere hedefine yönelir. Dani'nin kurtulması, gelecekten gelen süper asker olan Grace ve Sarah Connor'a bağlıdır.</desc>
+  </programme>
+  <programme start="20200928235500 +0300" stop="20200929023500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Limehouse Katili</title>
+    <title lang="en">The Limehouse Golem</title>
+    <desc lang="tr">Bir dizi cinayet, halkı sarsar ve halk insanların Golem adındaki efsanevi bir canlının cinayetlerden sorumlu olduğuna inanmaya başlar. Judaik mitolojiden gelen bu canlı kil ve çamurdan oluşmuş ve ritüeller ile büyülerle canlandırılmış bir yaratıktır. Scotland Yard müfettişi Kildare'e bu çözülmesi zor cinayetlerin sorumlusunu bulma görevi verilir.</desc>
+  </programme>
+  <programme start="20200929023500 +0300" stop="20200929043000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Motel</title>
+    <title lang="en">The Bag Man</title>
+    <desc lang="tr">İşinde çok profesyonel olan bir kiralık katil bir gün çok iyi para kazanacağı ancak biraz zor bir görev alır. İşi veren ise çok ünlü bir mafya lideridir. Kiralık katilin yapması gereken bir otelde bir kaç adamı öldürmesi ve adamlar otele gelene kadar oradan ayrılmamasıdır. Ancak bu hiç kolay olmayacaktır.</desc>
+  </programme>
+  <programme start="20200929043000 +0300" stop="20200929063000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Brooklyn</title>
+    <desc lang="tr">Film, En İyi Film, En İyi Kadın Oyuncu ve En İyi Uyarlama Senaryo dallarında Oscar'a aday gösterilen filmde, Eilis Lacey'i İrlanda'nın fakir mahallelerinden birinde yokluk içinde yaşayan bir kızdır. Sevmediği bir işte annesinin hatrına çalışan Ellis'e kasabasındaki kilise papazı yardımcı olur ve onu Amerika'ya güvenilir bir tanıdığın yanına gönderir.</desc>
+  </programme>
+  <programme start="20200929063000 +0300" stop="20200929084000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Yıldızlara Doğru</title>
+    <title lang="en">Ad Astra</title>
+    <desc lang="tr">En İyi Ses Miksajı Oscar'ına aday gösterilen filmde, astronot Roy McBride’nın babası, 20 yıl önce uzayda hayat olup olmadığını araştırmakla görevlendirilmiştir. Ancak bu görev sırasında kaybolan adamdan bir daha haber alınamaz. Kaybolan babasını galakside aramak isteyen Roy, gezegeni tehdit eden bir gizemi de çözmek amacıyla güneş sisteminin dışına yolculuk eder.</desc>
+  </programme>
+  <programme start="20200929084000 +0300" stop="20200929112000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Asfaltın Kralları</title>
+    <title lang="en">Ford v Ferrari</title>
+    <desc lang="tr">Ford'un Ferrari'yi satın alma girişimi başarısızlıkla sonlanınca Henry Ford, Ferrari'yi yarışta yenecek yeni bir spor araba üretilmesi görevini Carroll Shelby'e verir. Ken Miles ise başarılı bir yarış pilotudur. Bu ikiliyi bir araya getiren olay ise 1966 yılındaki 24 saatlik Le Mans yarışıdır. 2 dalda Oscar kazanan film, 3 En İyi Film dahil 3 dalda daha Oscar'a aday gösterilmiştir.</desc>
+  </programme>
+  <programme start="20200929112000 +0300" stop="20200929132000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Neredeyse Arkadaşlar</title>
+    <title lang="en">Almost Friends</title>
+    <desc lang="tr">Gelecek vaadeden bir aşçı adayı olan Charlie, sinemada çalışarak hayatını sürdürmektedir. Amber isminde kahvecide çalışan kızla karşılaşana kadar hayatının ne kadar perişan olduğunun farkında değildir. Amber, Charlie'nin dikkatini dağıtır ve Charlie hayatına onun sayesinde tekrar çeki düzen vermeye başlar.</desc>
+  </programme>
+  <programme start="20200929132000 +0300" stop="20200929163500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Gizli Bir Yaşam</title>
+    <title lang="en">A Hidden Life</title>
+    <desc lang="tr">İkinci Dünya Savaşı sırasında Nazi ideolojisi Avusturya'da hızla benimsenirken, Hitler'e bağlılığı reddeden vicdani retçi Franz Jagerstatter'in vatana ihanet suçuyla idama mahkum edilmesi söz konusudur. Avusturyalı çiftçi Jagerstatter, bu dönemde en büyük gücü ailesinden ve kendi ideolojisine inancından alır.</desc>
+  </programme>
+  <programme start="20200929163500 +0300" stop="20200929183000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">İstikamet: Düğün</title>
+    <title lang="en">Destination Wedding</title>
+    <desc lang="tr">Frank ve Lindsay davetli olarak katıldıkları düğüne giderken yolda tanışırlar. Yaşadıkları hayattan mutsuz olan Frank ve Lindsay tanıştıkları ilk andan itibaren birbirlerinden hoşlanmamalarına rağmen bütün hafta sonunu birlikte geçirmek zorunda kalırlar. Yaşadıkları maceralar ikilinin yakınlaşmasına neden olur. Filmin başrollerini Winona Ryder ve Keanu Reeves paylaşıyor.</desc>
+  </programme>
+  <programme start="20200929183000 +0300" stop="20200929204500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Tavşan Jojo</title>
+    <title lang="en">Jojo Rabbit</title>
+    <desc lang="tr">En İyi Uyarlama Senaryo dalında Oscar kazanıp 5 dalda daha aday olan filmde, Hitler'in gençlik kamplarında yer alan Jojo Betzler adındaki bir çocuk, annesinin evlerinde Yahudi bir kızı gizlice misafir ettiğini öğrenir. Kız, evlerinin çatı katında kalıyordur. Tabii bu durum en yakın sırdaşı hayali arkadaşı Adolf Hitler olan Jojo'nun kafasında büyük bir karmaşaya yol açacaktır.</desc>
+  </programme>
+  <programme start="20200929204500 +0300" stop="20200929231000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Alev Almış Bir Genç Kızın Portresi</title>
+    <title lang="en">Potrait of a Lady on Fire</title>
+    <desc lang="tr">Heloise ve ressam Marianne arasında yaşanan, dokunaklı bir aşk. Kontes, gelecekteki kocası İtalyan asilzadeye gönderilmek üzere kızı Heloise'nin portresini çizmesi için ressam Marianne'yi görevlendirir; kendisinden farklı bir yöntemle çalışmasını ister. Marianne kendini yürüyüş arkadaşı olarak tanıtır. İki kadın geçirdikleri beş gün boyunca duygusal olarak yakınlaşırlar.</desc>
+  </programme>
+  <programme start="20200929231000 +0300" stop="20200930013000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Saklambaç</title>
+    <title lang="en">Ready or Not</title>
+    <desc lang="tr">Grace ve Alex evlendikleri gün Grace, daha gelinliğini çıkaramadan, eşinin ailesi tarafından geleneksel aile oyunu dedikleri oyunu oynamak için çağırılır. Oyunu seçme hakkı ailenin yeni üyesi Grace'e verilir ve genç kadın nadiren çıkan saklambaç kartını seçer. Bu oyun bir süre sonra Grace için hayatta kalmak için mücadele ettiği korkunç bir savaşa dönüşür.</desc>
+  </programme>
+  <programme start="20200930013000 +0300" stop="20200930032000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Neredeyse Arkadaşlar</title>
+    <title lang="en">Almost Friends</title>
+    <desc lang="tr">Gelecek vaadeden bir aşçı adayı olan Charlie, sinemada çalışarak hayatını sürdürmektedir. Amber isminde kahvecide çalışan kızla karşılaşana kadar hayatının ne kadar perişan olduğunun farkında değildir. Amber, Charlie'nin dikkatini dağıtır ve Charlie hayatına onun sayesinde tekrar çeki düzen vermeye başlar.</desc>
+  </programme>
+  <programme start="20200930032000 +0300" stop="20200930050000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">İstikamet: Düğün</title>
+    <title lang="en">Destination Wedding</title>
+    <desc lang="tr">Frank ve Lindsay davetli olarak katıldıkları düğüne giderken yolda tanışırlar. Yaşadıkları hayattan mutsuz olan Frank ve Lindsay tanıştıkları ilk andan itibaren birbirlerinden hoşlanmamalarına rağmen bütün hafta sonunu birlikte geçirmek zorunda kalırlar. Yaşadıkları maceralar ikilinin yakınlaşmasına neden olur. Filmin başrollerini Winona Ryder ve Keanu Reeves paylaşıyor.</desc>
+  </programme>
+  <programme start="20200930050000 +0300" stop="20200930080000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Gizli Bir Yaşam</title>
+    <title lang="en">A Hidden Life</title>
+    <desc lang="tr">İkinci Dünya Savaşı sırasında Nazi ideolojisi Avusturya'da hızla benimsenirken, Hitler'e bağlılığı reddeden vicdani retçi Franz Jagerstatter'in vatana ihanet suçuyla idama mahkum edilmesi söz konusudur. Avusturyalı çiftçi Jagerstatter, bu dönemde en büyük gücü ailesinden ve kendi ideolojisine inancından alır.</desc>
+  </programme>
+  <programme start="20200930080000 +0300" stop="20200930100000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Tavşan Jojo</title>
+    <title lang="en">Jojo Rabbit</title>
+    <desc lang="tr">En İyi Uyarlama Senaryo dalında Oscar kazanıp 5 dalda daha aday olan filmde, Hitler'in gençlik kamplarında yer alan Jojo Betzler adındaki bir çocuk, annesinin evlerinde Yahudi bir kızı gizlice misafir ettiğini öğrenir. Kız, evlerinin çatı katında kalıyordur. Tabii bu durum en yakın sırdaşı hayali arkadaşı Adolf Hitler olan Jojo'nun kafasında büyük bir karmaşaya yol açacaktır.</desc>
+  </programme>
+  <programme start="20200930100000 +0300" stop="20200930122000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Sessiz Bir Tutku</title>
+    <title lang="en">A Quiet Passion</title>
+    <desc lang="tr">Yazdığı kısa şiirlerle yaşamındaki en önemli şeyleri etkili bir biçimde anlatan, 1920’lerde Amerika’nın en sevilen şairlerinden biri haline gelen Amerikalı Şair Emily Dickinson’ın genç kızlığından ölümüne kadar olan yaşamının anlatıldığı gerçek yaşam öyküsü.</desc>
+  </programme>
+  <programme start="20200930122000 +0300" stop="20200930142500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Durumunu Güncelle</title>
+    <title lang="en">Status Update</title>
+    <desc lang="tr">Anne ve babası kısa bir süre önce ayrılan Kyle Moore, yeni hayatına alışmaya çalışmaktadır. Yeni bir okula başlayan Kyle içn işler pek de yolunda değildir. Okulda diğer öğrenciler tarafından pek de sevilmemiştir fakat telefonuna yüklediği büyülü bir uygulama her şeyi değiştirir. Kyle'ın tüm paylaşımları uygulama sayesinde gerçek olur.</desc>
+  </programme>
+  <programme start="20200930142500 +0300" stop="20200930163000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Mafyayı Soy</title>
+    <title lang="en">Rob the Mob</title>
+    <desc lang="tr">Gerçek bir hikayeden esinlenerek beyazperdeye aktarulan film, bir dizi mafya kulübünü soymuş ve bunlardan kurtulmayı başarmış bir çiftin ; yeni planladıkları işte hem çetenin hem de FBI’ın hedefi olmalarına yol açan bir dizi olayı konu ediniyor.</desc>
+  </programme>
+  <programme start="20200930163000 +0300" stop="20200930183000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Kapımdaki Aşk</title>
+    <title lang="en">Home Again</title>
+    <desc lang="tr">2 çocuk annesi Alice Kinney yeni boşanmış, 40 yaşında bir kadındır. Doğum günü kutlaması için arkadaşlarıyla dışarı çıktığı akşam 3 genç ve umut vaat eden sinemacıyla tanışır. Ertesi gün annesinin de ısrarıyla bu gençlere evini açmayı kabul eden Alice'in hayatı, ayrılıklarının ardından evdeki durumu duyunca geri dönen eski eşi Austen Blume'un gelişiyle iyice karışır.</desc>
+  </programme>
+  <programme start="20200930183000 +0300" stop="20200930204500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">X-Men: Dark Phoenix</title>
+    <title lang="en">X- Men: Dark Phoenix</title>
+    <desc lang="tr">X-Men ekibinden Jean Grey, uzaydaki bir kurtarma görevi sırasında gizemli kozmik bir güç tarafından darbe alır; ancak bu güç Jean’i dengesiz bir hale getirerek kontrolden çıkarırır. X-Men ekibinin üyeleri hem arkadaşlarını kurtarmak hem de Jean’in gücünü kötü amaçlar için kullanmak isteyenlere karşı mücadele verir.</desc>
+  </programme>
+  <programme start="20200930204500 +0300" stop="20200930224000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Derin Sular</title>
+    <title lang="en">Underwater</title>
+    <desc lang="tr">Bir grup denizaltı ekibi, denizin altındaki laboratuvarlarında önemli araştırmalar yapmaktadır. Çalışmaların devam ettiği sırada, okyanusun dibinde çok büyük bir deprem olur. Deprem, laboratuvarın hasar görmesine neden olunca, araştırmacılar denizin kilometrelerce derinliklerinde mahsur kalır.</desc>
+  </programme>
+  <programme start="20200930224000 +0300" stop="20201001001500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Piramitin Laneti</title>
+    <title lang="en">Pyramid, The</title>
+    <desc lang="tr">Bir grup Amerikalı arkeolog, Mısır çöllerinin derinliklerine gömülmüş olan antik çağ piramitlerinden birini gün yüzüne çıkartır. Fakat sonsuz gibi görünen, karanlık duvarları arasında kaybolurlar. Dışarı çıkacak bir yol ararken, gün ışığını bir daha görme umutlarını gitgide kaybederler. Piramitte hem kıstırılmışlardır, hem de tek tek avlanmaktadırlar.</desc>
+  </programme>
+  <programme start="20201001001500 +0300" stop="20201001022500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Sessiz Bir Tutku</title>
+    <title lang="en">A Quiet Passion</title>
+    <desc lang="tr">Yazdığı kısa şiirlerle yaşamındaki en önemli şeyleri etkili bir biçimde anlatan, 1920’lerde Amerika’nın en sevilen şairlerinden biri haline gelen Amerikalı Şair Emily Dickinson’ın genç kızlığından ölümüne kadar olan yaşamının anlatıldığı gerçek yaşam öyküsü.</desc>
+  </programme>
+  <programme start="20201001022500 +0300" stop="20201001041500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Durumunu Güncelle</title>
+    <title lang="en">Status Update</title>
+    <desc lang="tr">Anne ve babası kısa bir süre önce ayrılan Kyle Moore, yeni hayatına alışmaya çalışmaktadır. Yeni bir okula başlayan Kyle içn işler pek de yolunda değildir. Okulda diğer öğrenciler tarafından pek de sevilmemiştir fakat telefonuna yüklediği büyülü bir uygulama her şeyi değiştirir. Kyle'ın tüm paylaşımları uygulama sayesinde gerçek olur.</desc>
+  </programme>
+  <programme start="20201001041500 +0300" stop="20201001060000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Kapımdaki Aşk</title>
+    <title lang="en">Home Again</title>
+    <desc lang="tr">2 çocuk annesi Alice Kinney yeni boşanmış, 40 yaşında bir kadındır. Doğum günü kutlaması için arkadaşlarıyla dışarı çıktığı akşam 3 genç ve umut vaat eden sinemacıyla tanışır. Ertesi gün annesinin de ısrarıyla bu gençlere evini açmayı kabul eden Alice'in hayatı, ayrılıklarının ardından evdeki durumu duyunca geri dönen eski eşi Austen Blume'un gelişiyle iyice karışır.</desc>
+  </programme>
+  <programme start="20201001060000 +0300" stop="20201001075000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Mafyayı Soy</title>
+    <title lang="en">Rob the Mob</title>
+    <desc lang="tr">Gerçek bir hikayeden esinlenerek beyazperdeye aktarulan film, bir dizi mafya kulübünü soymuş ve bunlardan kurtulmayı başarmış bir çiftin ; yeni planladıkları işte hem çetenin hem de FBI’ın hedefi olmalarına yol açan bir dizi olayı konu ediniyor.</desc>
+  </programme>
+  <programme start="20201001075000 +0300" stop="20201001095000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">X-Men: Dark Phoenix</title>
+    <title lang="en">X- Men: Dark Phoenix</title>
+    <desc lang="tr">X-Men ekibinden Jean Grey, uzaydaki bir kurtarma görevi sırasında gizemli kozmik bir güç tarafından darbe alır; ancak bu güç Jean’i dengesiz bir hale getirerek kontrolden çıkarırır. X-Men ekibinin üyeleri hem arkadaşlarını kurtarmak hem de Jean’in gücünü kötü amaçlar için kullanmak isteyenlere karşı mücadele verir.</desc>
+  </programme>
+  <programme start="20201001095000 +0300" stop="20201001120500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Cellat</title>
+    <title lang="en">Shot Caller</title>
+    <desc lang="tr">Kendi halinde bir aile babasıyken alkollü araç kullandığı için bir kişinin ölümüne sebep olan Harlon, bir anda kendini yaşamından tamamen zıt koşullar içinde bulduğu hapishane ortamında şiddet ve türevleriyle tanışır. Harlon eski kimliğini, yaşamı ve ailesiyle ilişkisini yitirmeye başlarken etrafında gelişen olaylar da büründüğü yeni hali şekillendirmeye devam eder.</desc>
+  </programme>
+  <programme start="20201001120500 +0300" stop="20201001142000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Küçük Bir Rica</title>
+    <title lang="en">A Simple Favor</title>
+    <desc lang="tr">Kendi çektiği videolarla çevresinde tanınan ,Stephanie, oğlunun arkadaşının annesi Emily ile dostluk kurar. Stephanie bir gün Emily’den küçük bir ricada bulunarak oğlunu okuldan almasını ister; ancak ricayı yerine getiren Emily esrarengiz bir şekilde ortadan kaybolur. Sıradan bir ev kadını olan Stephanie, Emily’i ararken kendini gizemli olayların içinde bulur.</desc>
+  </programme>
+  <programme start="20201001142000 +0300" stop="20201001162500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Kurye</title>
+    <title lang="en">The Courier</title>
+    <desc lang="tr">Kuryelik yapan genç bir kadın, her zamanki gibi kendisine verilen paketleri dağıtmaktadır. Bu sırada paketlerden birinin içinde bir bomba olduğunu farkeder ve o andan itibaren hayatı hiç de beklemediği bir yöne doğru gider.</desc>
+  </programme>
+  <programme start="20201001162500 +0300" stop="20201001183000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Ajanlar İş Başında</title>
+    <title lang="en">Spies in Disguise</title>
+    <desc lang="tr">Birbilerinden oldukça zıt karakterlere sahip olan Walter ve Lance isimli iki ajan tehlike altındaki dünyayı koruyabilmek için birlikte çalışmalı ve daha önemlisi birbirlerine güvenmelidirler.</desc>
+  </programme>
+  <programme start="20201001183000 +0300" stop="20201001202500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Sıradan Aşk</title>
+    <title lang="en">Ordinary Love</title>
+    <desc lang="tr">Birbirlerine derin bir sevgiyle bağlı olan Joan ve Tom'un uzun yıllardır süren mutlu,keyifli evlilikleri, Joan'a kanser teşhisi konulmasıyla güçlü bir sınavdan geçer. Bu süreci en az hasarla atlatmaya çalışan çift, aşk ve hayatla ilgili birtakım epik sorulara cevap arar.</desc>
+  </programme>
+  <programme start="20201001202500 +0300" stop="20201001223500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Kitap Kulübü</title>
+    <title lang="en">Book Club</title>
+    <desc lang="tr">Kariyer hayatlarında başarıya ulaşmış, elli yaşın üstünde dört kadın Diane, Carol Sharon ve Vivian yakın arkadaştırlar ve bir kitap kulüpleri vardır. Kitap seçme sırası Vivian'a gelince önerisi Gri'nin Elli Tonu olur. Kitaptan etkilenen dört yakın arkadaş yolunda gitmeyen aşk hayatlarını değiştirmeye karar verirler.</desc>
+  </programme>
+  <programme start="20201001223500 +0300" stop="20201002001500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Gece Gelen</title>
+    <title lang="en">It Comes at Night</title>
+    <desc lang="tr">Paul, terk edilmiş güvenli bir evde eşi ve oğluyla kendine bir düzen kurmuş bir aile babasıdır. Tüm dünyayı terörize eden alışılmadık bir tehditten korunmak için büyük bir emek harcayan babanın kararlılığı genç ve umutsuz bir gencin eve sığınmak istemesiyle sarsılacaktır.</desc>
+  </programme>
+  <programme start="20201002001500 +0300" stop="20201002031000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Cellat</title>
+    <title lang="en">Shot Caller</title>
+    <desc lang="tr">Kendi halinde bir aile babasıyken alkollü araç kullandığı için bir kişinin ölümüne sebep olan Harlon, bir anda kendini yaşamından tamamen zıt koşullar içinde bulduğu hapishane ortamında şiddet ve türevleriyle tanışır. Harlon eski kimliğini, yaşamı ve ailesiyle ilişkisini yitirmeye başlarken etrafında gelişen olaylar da büründüğü yeni hali şekillendirmeye devam eder.</desc>
+  </programme>
+  <programme start="20201002031000 +0300" stop="20201002051500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Küçük Bir Rica</title>
+    <title lang="en">A Simple Favor</title>
+    <desc lang="tr">Kendi çektiği videolarla çevresinde tanınan ,Stephanie, oğlunun arkadaşının annesi Emily ile dostluk kurar. Stephanie bir gün Emily’den küçük bir ricada bulunarak oğlunu okuldan almasını ister; ancak ricayı yerine getiren Emily esrarengiz bir şekilde ortadan kaybolur. Sıradan bir ev kadını olan Stephanie, Emily’i ararken kendini gizemli olayların içinde bulur.</desc>
+  </programme>
+  <programme start="20201002051500 +0300" stop="20201002070500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Ajanlar İş Başında</title>
+    <title lang="en">Spies in Disguise</title>
+    <desc lang="tr">Birbilerinden oldukça zıt karakterlere sahip olan Walter ve Lance isimli iki ajan tehlike altındaki dünyayı koruyabilmek için birlikte çalışmalı ve daha önemlisi birbirlerine güvenmelidirler.</desc>
+  </programme>
+  <programme start="20201002070500 +0300" stop="20201002085500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Kurye</title>
+    <title lang="en">The Courier</title>
+    <desc lang="tr">Kuryelik yapan genç bir kadın, her zamanki gibi kendisine verilen paketleri dağıtmaktadır. Bu sırada paketlerden birinin içinde bir bomba olduğunu farkeder ve o andan itibaren hayatı hiç de beklemediği bir yöne doğru gider.</desc>
+  </programme>
+  <programme start="20201002085500 +0300" stop="20201002103500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Sıradan Aşk</title>
+    <title lang="en">Ordinary Love</title>
+    <desc lang="tr">Birbirlerine derin bir sevgiyle bağlı olan Joan ve Tom'un uzun yıllardır süren mutlu,keyifli evlilikleri, Joan'a kanser teşhisi konulmasıyla güçlü bir sınavdan geçer. Bu süreci en az hasarla atlatmaya çalışan çift, aşk ve hayatla ilgili birtakım epik sorulara cevap arar.</desc>
+  </programme>
+  <programme start="20201002103500 +0300" stop="20201002122000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Garantili Ölüm (Yoksa Paran İade)</title>
+    <title lang="en">Yoksa Paran İade</title>
+    <desc lang="tr">Yirmi yedi yaşındaki William, dokuzuncu intihar denemesinde de başarılı olamayınca yaşlı bir tetikçi olan Leslie'den yardım alır. Her şey ayarlandığında William hayallerinin kadını ile tanışır.; fakat Leslie'nin de suikastçılar birliği üyeliğini elinde tutabilmek için aylık kotasını doldurması gerekmektedir. İşler iki adam için de karmakarışık bir hal alır.</desc>
+  </programme>
+  <programme start="20201002122000 +0300" stop="20201002142000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Küçük Joe</title>
+    <title lang="en">Little Joe</title>
+    <desc lang="tr">Laboratuvar ortamında yaratılan bir bitki olan Küçük Joe'yu koklayanlar hızlı bir şekilde mutluluk hissetmektedir. Ancak insanlara mutluluk veren bu küçük tatlı bitkinin polenini içine çekenler bir daha asla aynı hallerine dönememektedir!</desc>
+  </programme>
+  <programme start="20201002142000 +0300" stop="20201002162000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Travma Merkezi</title>
+    <title lang="en">Trauma Center</title>
+    <desc lang="tr">Dedektif Wakes, karısının cinayete kurban gitmesinin ardından intikam yemini eder. Katillerin peşine düşen Wakes, bu sırada cinayet sırasında olay yerinde yaralanan Madison’ı koruma altına alır. Cinayetin tek kanıtı Madison’ın bacağında kurşundur ve katiller kadının peşindedir. Wakes, her şeyi kontrol altına aldığını düşünürken beklenmedik bir olay ile karşı karşıya kalır.</desc>
+  </programme>
+  <programme start="20201002162000 +0300" stop="20201002183000 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Yangın Yeri</title>
+    <title lang="en">Wildlife</title>
+    <desc lang="tr">Genç oyuncular Paul Dano ve Zoe Kazan'ın birlikte kaleme aldıkları, Paul Dano'nun aynı zamanda yönetmen koltuğunda oturduğu filmde, dağılmak üzere olan bir ailede büyüyen 14 yaşındaki Joe'nun hayatına odaklanıyoruz.</desc>
+  </programme>
+  <programme start="20201002183000 +0300" stop="20201002205500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Skandal</title>
+    <title lang="en">Bombshell</title>
+    <desc lang="tr">En İyi Saç ve Makyaj Oscar'ı kazanıp, Charlize Theron ve Margot Robbie'e üstün performanslarıyla Oscar adaylığı getiren filmde, Fox News kanalındaki bir taciz skandalına karşı birleşen ve skandalı ortaya çıkarmaya karar veren bir grup kadının mücadelesi ekrana geliyor.</desc>
+  </programme>
+  <programme start="20201002205500 +0300" stop="20201002230500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Zaman Yolcuları</title>
+    <title lang="en">Time Freak</title>
+    <desc lang="tr">Fizik öğrencisi Stillman, kız arkadaşı Debbie'den ayrıldıktan sonra kendisini bir türlü toparlayamaz. Genç adam, ilişkilerini düzeltip yeniden bir araya gelmenin yollarını ararken, aklına bir fikir gelir. Bir zaman makinesi icat etmeyi planlayan Stillman, bu sayede Debbie ile ilişkilerinin başladığı güne geri dönecek ve tüm hatalarını telafi etme imkanı bulabilecektir.</desc>
+  </programme>
+  <programme start="20201002230500 +0300" stop="20201003004500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Yabani</title>
+    <title lang="en">Wildling</title>
+    <desc lang="tr">Anna, baba olarak bildiği bir adam tarafından toplumdan uzak bir şekilde kendisi ile ilgili gerçeği bilmeden büyütülmüştür. Polis memuru Ellen'ın koruması altında gerçek dünyaya adım attığında, genç kızın sıradanlıktan çok uzak olduğu anlaşılacaktır. Anna, bir yandan içinde artmakta olan kana susamışlık hissiyle savaşırken, bir yandan da kendini vahşi doğaya çekilirken bulur.</desc>
+  </programme>
+  <programme start="20201003004500 +0300" stop="20201003030500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Garantili Ölüm (Yoksa Paran İade)</title>
+    <title lang="en">Yoksa Paran İade</title>
+    <desc lang="tr">Yirmi yedi yaşındaki William, dokuzuncu intihar denemesinde de başarılı olamayınca yaşlı bir tetikçi olan Leslie'den yardım alır. Her şey ayarlandığında William hayallerinin kadını ile tanışır.; fakat Leslie'nin de suikastçılar birliği üyeliğini elinde tutabilmek için aylık kotasını doldurması gerekmektedir. İşler iki adam için de karmakarışık bir hal alır.</desc>
+  </programme>
+  <programme start="20201003030500 +0300" stop="20201003060500 +0300" channel="MovieSmart Premium 2">
+    <title lang="tr">Küçük Joe</title>
+    <title lang="en">Little Joe</title>
+    <desc lang="tr">Laboratuvar ortamında yaratılan bir bitki olan Küçük Joe'yu koklayanlar hızlı bir şekilde mutluluk hissetmektedir. Ancak insanlara mutluluk veren bu küçük tatlı bitkinin polenini içine çekenler bir daha asla aynı hallerine dönememektedir!</desc>
+  </programme>
+  <programme start="20200925214000 +0300" stop="20200925232500 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Dehşet Odası</title>
+    <title lang="en">Green Room</title>
+    <desc lang="tr">Önceden planlanan konserleri son anda iptal olan bir rock grubu bunun yerine ormanın içinde, gözden uzak bir mekanda sahneye çıkmayı kabul ederler. Sahne aldıkları bar, Neo-Naziler'in uğrak mekanı olan bir yerdir. Bu Neo-Naziler'in Emily adında genç bir kızı öldürdüğünü gören grup üyeleri, cinayete dair delilleri ve tanıkları ortadan kaldırmak isteyen katillerin hedefi olacaktır.(n)</desc>
+  </programme>
+  <programme start="20200925232500 +0300" stop="20200926002500 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Zoom In</title>
+  </programme>
+  <programme start="20200926002500 +0300" stop="20200926022000 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Karanlık Şerit</title>
+    <title lang="en">Möbius</title>
+    <desc lang="tr">Rus istihbarat servisinde çalışan Gregory Lyubov, özel bir görev için Monako'ya gönderilir. Monako'daki özel bir Rus bankasında çalışmakta olan Alice isimli bir finans uzmanı da gizlice görevlendirilir. Gregory'nin görevi ise Alice'ten gizli bir şekilde onun sadakatini ölçmektir. Gregory, kuralı çiğner ve Alice ile iletişime geçer.</desc>
+  </programme>
+  <programme start="20200926022000 +0300" stop="20200926031500 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Zoom In</title>
+  </programme>
+  <programme start="20200926031500 +0300" stop="20200926051000 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Serena</title>
+    <desc lang="tr">1929 yılında Kuzey Carolina'ya yerleşen George ve Serena Pemberton çifti, kerestecilik işinde yükselirler. Kocasının başarısına daima destek olan Serena, önlerini kesmek isteyen herkesin de ayağını bir biçimde kaydırır. Fakat Serena hamile kalamıyordur, sevgili kocasına asla bir çocuk veremeyecektir. Bu haber Serena'nın iyice hırslanmasına yol açar ve kıskançlığını tırmandırır.</desc>
+  </programme>
+  <programme start="20200926051000 +0300" stop="20200926071000 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Mükemmel Bir Gün</title>
+    <title lang="en">A Perfect Day</title>
+    <desc lang="tr">1995... Balkan Savaş günleri...Uluslararası yardım görevlisi Sophie, arkadaşları B ve Mambru ile birlikte bölgede su kaynaklarını kirleten koca bir cesedi kuyudan çıkarmaya çalışırlar. Basit gibi görünen görev birbirinden sıkıcı bürokrasi işleri ve tahlihsizlikler ile gereğinden fazla zorlaşır.</desc>
+  </programme>
+  <programme start="20200926071000 +0300" stop="20200926085000 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Yanardağ</title>
+    <title lang="en">The Volcano</title>
+    <desc lang="tr">Kızlarının düğününe yetişmeye çalışan boşanmış bir çifti, kötü bir sürpriz beklemektedir. İzlanda'da yanardağın püskürttüğü dumanlar tüm Avrupa hava sahasını kaplamıştır. Şimdi birbirlerine olan tüm kötü hislerini bırakıp bir an önce düğünün yapılacağı küçük Yunan köyüne ulaşmaları gerekmektedir.</desc>
+  </programme>
+  <programme start="20200926085000 +0300" stop="20200926105000 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Biz Yeniden Tanışana Dek</title>
+    <title lang="en">Till We Meet Again</title>
+    <desc lang="tr">Beş yıldır birlikte olan New York'ta yaşayan Erik ve bağımlı olduğu sevgilisi yazar Joanna, geçmişte kalan bazı sorunları çözmek için Tayland'a seyahat etme kararı alırlar. Joanna Tayland'da çocukluk arkadaşı David'le karşılaşır ve birlikte vakit geçirmeye başlarlar. Bu yolculuk aynı zamanda Erik'in kendine yaptığı bir keşif ve değişim yolculuğudur.</desc>
+  </programme>
+  <programme start="20200926105000 +0300" stop="20200926125500 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Şaperon</title>
+    <title lang="en">The Chaperone</title>
+    <desc lang="tr">Eski bir mahkum hapisten çıktıktan sonra kirli geçmişinden kurtulup kızı ile yeni bir hayat kurmak istemektedir ancak eski ortağı ve karanlık geçmişi onu rahat bırakmayacaktır.</desc>
+  </programme>
+  <programme start="20200926125500 +0300" stop="20200926145000 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Gizemli Haber</title>
+    <title lang="en">The Lead</title>
+    <desc lang="tr">Sasha Bruder, yerel bir TV kanalında çalışan, mesleğinde yıldız olmak isteyen, büyük hikayeler peşinde koşan genç bir muhabirdir; ancak bir gün kaçırılıp esir tutulduğunda hikayenin kendisi haline gelir.</desc>
+  </programme>
+  <programme start="20200926145000 +0300" stop="20200926171500 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Çılgın Kalabalıktan Uzak</title>
+    <title lang="en">Far From the Madding Crowd</title>
+    <desc lang="tr">Bathsheba Everdene, kendi kendine yeten, güzel bir genç kadındır. Aynı anda 3 farklı karakterle birliktelik yaşamaktadır: koyun çobanlığı yapan istekli Gabriel, yakışıklı ve acımasız asker Frank ve olgun bekar William. Everdene'in yaşadıkları, kadın-erkek ilişkileri üzerine yıllardır eskimeyen bir bakış açısı sunuyor.</desc>
+  </programme>
+  <programme start="20200926171500 +0300" stop="20200926200000 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Molly'nin Oyunu</title>
+    <title lang="en">Molly's Game</title>
+    <desc lang="tr">Spor kariyerinden vazgeçerek, büyük bahisli poker oyunları düzenleyen Molly Bloom, oyunlardan aldığı komisyon nedeniyle FBI tarafından gözaltına alınır. Poker Prensesi olarak tanınan Molly Bloom'un gerçek hayat hikayesinin anlatıldığı film aynı adlı otobiyografik romanından beyaz perdeye uyarlanmış.</desc>
+  </programme>
+  <programme start="20200926200000 +0300" stop="20200926230000 +0300" channel="MovieSmart Platin">
+    <title lang="tr">Kurtuluş Günü 2: Yeni Tehdit</title>
+    <title lang="en">Independence Day: Resurgence</title>
+    <desc lang="tr">Kurtuluş Günü'nün üzerinden 20 yıl geçmiştir ve tüm dünya devletleri birlikte çok daha gelişmiş bir savunma sistemini kullanmaktadır. Ancak mağlup olmalarından hemen önce uzaya yardım çağrısı yapan yaratıkların çağrısı alınmıştır ve uzaylılar bu sefer çok daha güçlü bir şekilde yeniden dünyaya saldıracaktır.</desc>
+  </programme>
+  <programme start="20200925210000 +0300" stop="20200925213000 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Biz Yeniden Tanışana Dek</title>
+    <title lang="en">Till We Meet Again</title>
+    <desc lang="tr">Beş yıldır birlikte olan New York'ta yaşayan Erik ve bağımlı olduğu sevgilisi yazar Joanna, geçmişte kalan bazı sorunları çözmek için Tayland'a seyahat etme kararı alırlar. Joanna Tayland'da çocukluk arkadaşı David'le karşılaşır ve birlikte vakit geçirmeye başlarlar. Bu yolculuk aynı zamanda Erik'in kendine yaptığı bir keşif ve değişim yolculuğudur.(n)</desc>
+  </programme>
+  <programme start="20200925213000 +0300" stop="20200925231000 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Kurtuluş Günü 2: Yeni Tehdit</title>
+    <title lang="en">Independence Day: Resurgence</title>
+    <desc lang="tr">Kurtuluş Günü'nün üzerinden 20 yıl geçmiştir ve tüm dünya devletleri birlikte çok daha gelişmiş bir savunma sistemini kullanmaktadır. Ancak mağlup olmalarından hemen önce uzaya yardım çağrısı yapan yaratıkların çağrısı alınmıştır ve uzaylılar bu sefer çok daha güçlü bir şekilde yeniden dünyaya saldıracaktır.(n)</desc>
+  </programme>
+  <programme start="20200925231000 +0300" stop="20200926005500 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Dehşet Odası</title>
+    <title lang="en">Green Room</title>
+    <desc lang="tr">Önceden planlanan konserleri son anda iptal olan bir rock grubu bunun yerine ormanın içinde, gözden uzak bir mekanda sahneye çıkmayı kabul ederler. Sahne aldıkları bar, Neo-Naziler'in uğrak mekanı olan bir yerdir. Bu Neo-Naziler'in Emily adında genç bir kızı öldürdüğünü gören grup üyeleri, cinayete dair delilleri ve tanıkları ortadan kaldırmak isteyen katillerin hedefi olacaktır.(n)</desc>
+  </programme>
+  <programme start="20200926005500 +0300" stop="20200926015500 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Zoom In</title>
+  </programme>
+  <programme start="20200926015500 +0300" stop="20200926035000 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Karanlık Şerit</title>
+    <title lang="en">Möbius</title>
+    <desc lang="tr">Rus istihbarat servisinde çalışan Gregory Lyubov, özel bir görev için Monako'ya gönderilir. Monako'daki özel bir Rus bankasında çalışmakta olan Alice isimli bir finans uzmanı da gizlice görevlendirilir. Gregory'nin görevi ise Alice'ten gizli bir şekilde onun sadakatini ölçmektir. Gregory, kuralı çiğner ve Alice ile iletişime geçer.</desc>
+  </programme>
+  <programme start="20200926035000 +0300" stop="20200926044500 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Zoom In</title>
+  </programme>
+  <programme start="20200926044500 +0300" stop="20200926064000 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Serena</title>
+    <desc lang="tr">1929 yılında Kuzey Carolina'ya yerleşen George ve Serena Pemberton çifti, kerestecilik işinde yükselirler. Kocasının başarısına daima destek olan Serena, önlerini kesmek isteyen herkesin de ayağını bir biçimde kaydırır. Fakat Serena hamile kalamıyordur, sevgili kocasına asla bir çocuk veremeyecektir. Bu haber Serena'nın iyice hırslanmasına yol açar ve kıskançlığını tırmandırır.</desc>
+  </programme>
+  <programme start="20200926064000 +0300" stop="20200926084000 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Mükemmel Bir Gün</title>
+    <title lang="en">A Perfect Day</title>
+    <desc lang="tr">1995... Balkan Savaş günleri...Uluslararası yardım görevlisi Sophie, arkadaşları B ve Mambru ile birlikte bölgede su kaynaklarını kirleten koca bir cesedi kuyudan çıkarmaya çalışırlar. Basit gibi görünen görev birbirinden sıkıcı bürokrasi işleri ve tahlihsizlikler ile gereğinden fazla zorlaşır.</desc>
+  </programme>
+  <programme start="20200926084000 +0300" stop="20200926102000 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Yanardağ</title>
+    <title lang="en">The Volcano</title>
+    <desc lang="tr">Kızlarının düğününe yetişmeye çalışan boşanmış bir çifti, kötü bir sürpriz beklemektedir. İzlanda'da yanardağın püskürttüğü dumanlar tüm Avrupa hava sahasını kaplamıştır. Şimdi birbirlerine olan tüm kötü hislerini bırakıp bir an önce düğünün yapılacağı küçük Yunan köyüne ulaşmaları gerekmektedir.</desc>
+  </programme>
+  <programme start="20200926102000 +0300" stop="20200926122000 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Biz Yeniden Tanışana Dek</title>
+    <title lang="en">Till We Meet Again</title>
+    <desc lang="tr">Beş yıldır birlikte olan New York'ta yaşayan Erik ve bağımlı olduğu sevgilisi yazar Joanna, geçmişte kalan bazı sorunları çözmek için Tayland'a seyahat etme kararı alırlar. Joanna Tayland'da çocukluk arkadaşı David'le karşılaşır ve birlikte vakit geçirmeye başlarlar. Bu yolculuk aynı zamanda Erik'in kendine yaptığı bir keşif ve değişim yolculuğudur.</desc>
+  </programme>
+  <programme start="20200926122000 +0300" stop="20200926142500 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Şaperon</title>
+    <title lang="en">The Chaperone</title>
+    <desc lang="tr">Eski bir mahkum hapisten çıktıktan sonra kirli geçmişinden kurtulup kızı ile yeni bir hayat kurmak istemektedir ancak eski ortağı ve karanlık geçmişi onu rahat bırakmayacaktır.</desc>
+  </programme>
+  <programme start="20200926142500 +0300" stop="20200926162000 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Gizemli Haber</title>
+    <title lang="en">The Lead</title>
+    <desc lang="tr">Sasha Bruder, yerel bir TV kanalında çalışan, mesleğinde yıldız olmak isteyen, büyük hikayeler peşinde koşan genç bir muhabirdir; ancak bir gün kaçırılıp esir tutulduğunda hikayenin kendisi haline gelir.</desc>
+  </programme>
+  <programme start="20200926162000 +0300" stop="20200926184500 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Çılgın Kalabalıktan Uzak</title>
+    <title lang="en">Far From the Madding Crowd</title>
+    <desc lang="tr">Bathsheba Everdene, kendi kendine yeten, güzel bir genç kadındır. Aynı anda 3 farklı karakterle birliktelik yaşamaktadır: koyun çobanlığı yapan istekli Gabriel, yakışıklı ve acımasız asker Frank ve olgun bekar William. Everdene'in yaşadıkları, kadın-erkek ilişkileri üzerine yıllardır eskimeyen bir bakış açısı sunuyor.</desc>
+  </programme>
+  <programme start="20200926184500 +0300" stop="20200926214500 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Molly'nin Oyunu</title>
+    <title lang="en">Molly's Game</title>
+    <desc lang="tr">Spor kariyerinden vazgeçerek, büyük bahisli poker oyunları düzenleyen Molly Bloom, oyunlardan aldığı komisyon nedeniyle FBI tarafından gözaltına alınır. Poker Prensesi olarak tanınan Molly Bloom'un gerçek hayat hikayesinin anlatıldığı film aynı adlı otobiyografik romanından beyaz perdeye uyarlanmış.</desc>
+  </programme>
+  <programme start="20200927213000 +0300" stop="20200928003000 +0300" channel="MovieSmart Platin 2">
+    <title lang="tr">Kurtuluş Günü 2: Yeni Tehdit</title>
+    <title lang="en">Independence Day: Resurgence</title>
+    <desc lang="tr">Kurtuluş Günü'nün üzerinden 20 yıl geçmiştir ve tüm dünya devletleri birlikte çok daha gelişmiş bir savunma sistemini kullanmaktadır. Ancak mağlup olmalarından hemen önce uzaya yardım çağrısı yapan yaratıkların çağrısı alınmıştır ve uzaylılar bu sefer çok daha güçlü bir şekilde yeniden dünyaya saldıracaktır.</desc>
+  </programme>
+  <programme start="20200925211000 +0300" stop="20200925213500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Zoom In</title>
+  </programme>
+  <programme start="20200925213500 +0300" stop="20200925231500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Havuz</title>
+    <title lang="en">Swimming Pool</title>
+    <desc lang="tr">Gizemli romanların yazarı Sarah Morton, bir süredir Londra'dan yorulmuş ve yeni romanı için ilham arayışı içerisine girmiştir. Yayıncısı John Bosload'dan, kendisinin Fransa'nın güneyi Luberon'daki evinde kalmak üzere bir teklif alır. Bölgenin sezonu olmadığı için sessiz bir ortamdır ve yazara iyi geleceğinden emindir John.(n)</desc>
+  </programme>
+  <programme start="20200925231500 +0300" stop="20200926000000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Zoom In</title>
+  </programme>
+  <programme start="20200926000000 +0300" stop="20200926014000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Babalar Takımı</title>
+    <title lang="en">Daddy and Them</title>
+    <desc lang="tr">Claude Montgomery ve Ruby birbirlerine ölesiye aşık olan sevimli bir çifttir. Claude'un amcası Hazel cinayete teşebbüs ettiği için tutuklanır ve hapishaneye gönderilir. Bu yüzden ailesiyle birlikte doğduğu yere, Little Rock'a doğru yola çıkan Claude'u eski sevgilisi, Ruby'nin kız kardeşi Rose'un da yer aldığı ilginç bir yolculuk beklemektedir.(n)</desc>
+  </programme>
+  <programme start="20200926014000 +0300" stop="20200926021000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Zoom In</title>
+  </programme>
+  <programme start="20200926021000 +0300" stop="20200926034500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Veda Öpücüğü</title>
+    <title lang="en">Kiss Me Goodbye</title>
+    <desc lang="tr">Eşi Jolly'nin ölümünün üzerinden 3 yıl geçen Kay, yeni nişanlısı Rupert'ı eski evlerine taşınmaya ikna eder. Bu evdeki anıların musallat olmasından korkan Kay'i çok daha büyük bir sorun beklemektedir; eski eşi Jolly'nin hayaleti. Sally Field, filmdeki performansıyla Golden Globe'a aday gösterildi.(n)</desc>
+  </programme>
+  <programme start="20200926034500 +0300" stop="20200926040000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Zoom In</title>
+  </programme>
+  <programme start="20200926040000 +0300" stop="20200926053000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Yeni Yıl Soygunu</title>
+    <title lang="en">Bad Santa</title>
+    <desc lang="tr">Willie ve Marcus, yılbaşı tatilinde Noel Baba kılığına girerek bir alışveriş merkezinde soygun yapmayı planlar. Sempatik görünümleriyle insanları kolayca etkileyebilen ikilinin tüm planları, karşılarına çıkan 8 yaşındaki bir çocuk yüzünden altüst olur.(n)</desc>
+  </programme>
+  <programme start="20200926053000 +0300" stop="20200926054000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Az Sonra...</title>
+  </programme>
+  <programme start="20200926054000 +0300" stop="20200926070500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Davetsiz Misafir</title>
+    <title lang="en">The Third Wheel</title>
+    <desc lang="tr">Çalıştığı şirkette işe başlayan Diana'ya ilk görüşte aşık olan Stanley onunla çıkmakta kararlıdır. İş yerinden yakın arkadaşı Michael'in desteğine rağmen cesaretini çok uzun sürede toplayan Stanley, sonunda hayallerinin randevusunu ayarlamıştır. Yemek sonrası kaza sonucu tanıştıkları Phil de aralarına katılır ve gece boyunca başlarına gelmedik kalmaz.(n)</desc>
+  </programme>
+  <programme start="20200926070500 +0300" stop="20200926071500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Az Sonra...</title>
+  </programme>
+  <programme start="20200926071500 +0300" stop="20200926085000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Baskı</title>
+    <title lang="en">One Hour Photo</title>
+    <desc lang="tr">Bir alışveriş merkezinin fotoğrafçısında çalışan Seymour Parrish hayatını fotoğraf çekmek üzerine kurmuştur. Hayatın anlamının fotoğraf çekmekte yattığına inanan adam, tanımadığı insanları çektiği fotoğraflara ölesiye bağlıdır. Her karenin altında yatan hikayeyi hayal edip bununla mutlu olan Seymour'un favori müşterileri Yorkin ailesidir.(n)</desc>
+  </programme>
+  <programme start="20200926085000 +0300" stop="20200926090000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Az Sonra...</title>
+  </programme>
+  <programme start="20200926090000 +0300" stop="20200926104000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Gözler ve Sözler</title>
+    <title lang="en">The Truth About Cats &amp; Dogs</title>
+    <desc lang="tr">Abby radyoda program yapan bir veterinerdir. Bu programı dinleyen Brian, Abby ile tanışmaya karar verir. Utangaç Abby, çekici arkadaşı Noelle'den kendisinin yerine geçmesini ister. Çakma Abby yani Noelle zamanla Brian'dan hoşlanmaya başlarken gerçek Abby ise kim olduğunu bilmeyen bu genç adamı etkilemeye çalışır.(n)</desc>
+  </programme>
+  <programme start="20200926104000 +0300" stop="20200926105000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Az Sonra...</title>
+  </programme>
+  <programme start="20200926105000 +0300" stop="20200926123500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Dondurma Savaşı</title>
+    <title lang="en">Comfort and Joy</title>
+    <desc lang="tr">Radyo sunucusu Alan Bird, bir dondurma firmasının kamyonunun, rakiplerinden biri tarafından saldırıya uğradığına şahit olur. Bu durum kendisini, birbirine rakip iki İtalyan aile, Bernardis ve Rossis arasındaki mücadeleye götürür.(n)</desc>
+  </programme>
+  <programme start="20200926123500 +0300" stop="20200926124500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Az Sonra...</title>
+  </programme>
+  <programme start="20200926124500 +0300" stop="20200926144000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Fırtına Gibi</title>
+    <title lang="en">From the Hip</title>
+    <desc lang="tr">Henüz kariyerinin başlarında bir avukat olan Robin "Stormy" Weathers, meslek hayatının zorlu basamaklarını tırmanmaya çalışmaktadır. Bu sırada cinayetle suçlanan bir üniversite profesörünü savunma görevini üstlenmiştir. (Dil:Türkçe/Orijinal -Altyazı:Türkçe/İngilizce).(n)</desc>
+  </programme>
+  <programme start="20200926144000 +0300" stop="20200926145500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Az Sonra...</title>
+  </programme>
+  <programme start="20200926145500 +0300" stop="20200926170500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Gel Cenneti Gör</title>
+    <title lang="en">Come See the Paradise</title>
+    <desc lang="tr">Sendikal faaliyetlerinden dolayı başı derde giren ve son çare olarak Los Angeles'a gelip bir sinema salonunda iş bulan Jack McGurn, sinema salonunun sahibinin kızına aşık olur. Kızın babasının itirazına rağmen evlenip yuva kurarlar. Ne var ki, Japonya'nın Pearl Harbour baskınını takiben, bu bölgedeki Japonlar'a karşı oluşan tepkiler ve alınan tehcir kararı her şeyi değiştirir.(n)</desc>
+  </programme>
+  <programme start="20200926170500 +0300" stop="20200926173000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Az Sonra...</title>
+  </programme>
+  <programme start="20200926173000 +0300" stop="20200926193000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">İyi Bir Yıl</title>
+    <title lang="en">A Good Year</title>
+    <desc lang="tr">Londra'da yatırım danışmanlığı yapan Max Skinner, amcasından miras kalan üzüm bağını satmak için Provence'e gider. Fakat bu satış işlemi, tahmin ettiği gibi sorunsuz geçmeyecektir. Üzüm bağının kendisine ait olduğunu iddia eden Amerikalı bir kadının varlığı, ilk zamanlarda canını oldukça sıksa da, zamanla hayatının en keyif verici günlerini geçirdiğinin farkına varacaktır.(n)</desc>
+  </programme>
+  <programme start="20200926193000 +0300" stop="20200926195000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Az Sonra...</title>
+  </programme>
+  <programme start="20200926195000 +0300" stop="20200926215500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Erkeğin Gözyaşları</title>
+    <title lang="en">The Man Who Cried</title>
+    <desc lang="tr">Rusya'da yaşayan Yahudi bir adam para kazanmak için Amerika'ya gider ve böylece geride bıraktığı kızı ile karısına para yollayabilecektir. Fakat bir süre sonra Rusya'da çalkantılar başlar ve kızı babasının yanına götürülmesi için Amerika'ya giden bir gemiye bindirilir. Ancak gemi onu İngiltere'de bırakır.(n)</desc>
+  </programme>
+  <programme start="20200926215500 +0300" stop="20200927012500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Ucuz Roman</title>
+    <title lang="en">Pulp Fiction</title>
+    <desc lang="tr">Mafya tetikçisi iki adam, bir boksör, bir gangsterin karısı ve iki soyguncu... Kader bu aykırı tipleri muhteşem bir şekilde bir araya getirecek, yollarını kesiştirecektir. Quentin Tarantino'nun başyapıtı 7 dalda aday gösterildiği Oscar ödüllerinde En İyi Senaryo ödülünü kazanmıştı.(n)</desc>
+  </programme>
+  <programme start="20200927012500 +0300" stop="20200927040000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Dondurma Savaşı</title>
+    <title lang="en">Comfort and Joy</title>
+    <desc lang="tr">Radyo sunucusu Alan Bird, bir dondurma firmasının kamyonunun, rakiplerinden biri tarafından saldırıya uğradığına şahit olur. Bu durum kendisini, birbirine rakip iki İtalyan aile, Bernardis ve Rossis arasındaki mücadeleye götürür.(n)</desc>
+  </programme>
+  <programme start="20200927040000 +0300" stop="20200927060000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Fırtına Gibi</title>
+    <title lang="en">From the Hip</title>
+    <desc lang="tr">Henüz kariyerinin başlarında bir avukat olan Robin "Stormy" Weathers, meslek hayatının zorlu basamaklarını tırmanmaya çalışmaktadır. Bu sırada cinayetle suçlanan bir üniversite profesörünü savunma görevini üstlenmiştir. (Dil:Türkçe/Orijinal -Altyazı:Türkçe/İngilizce).(n)</desc>
+  </programme>
+  <programme start="20200927060000 +0300" stop="20200927082000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Gel Cenneti Gör</title>
+    <title lang="en">Come See the Paradise</title>
+    <desc lang="tr">Sendikal faaliyetlerinden dolayı başı derde giren ve son çare olarak Los Angeles'a gelip bir sinema salonunda iş bulan Jack McGurn, sinema salonunun sahibinin kızına aşık olur. Kızın babasının itirazına rağmen evlenip yuva kurarlar. Ne var ki, Japonya'nın Pearl Harbour baskınını takiben, bu bölgedeki Japonlar'a karşı oluşan tepkiler ve alınan tehcir kararı her şeyi değiştirir.(n)</desc>
+  </programme>
+  <programme start="20200927082000 +0300" stop="20200927102500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">İyi Bir Yıl</title>
+    <title lang="en">A Good Year</title>
+    <desc lang="tr">Londra'da yatırım danışmanlığı yapan Max Skinner, amcasından miras kalan üzüm bağını satmak için Provence'e gider. Fakat bu satış işlemi, tahmin ettiği gibi sorunsuz geçmeyecektir. Üzüm bağının kendisine ait olduğunu iddia eden Amerikalı bir kadının varlığı, ilk zamanlarda canını oldukça sıksa da, zamanla hayatının en keyif verici günlerini geçirdiğinin farkına varacaktır.(n)</desc>
+  </programme>
+  <programme start="20200927102500 +0300" stop="20200927122000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Genç Frankenstein</title>
+    <title lang="en">Young Frankenstein</title>
+    <desc lang="tr">Atalarından gurur duymasa da, Doktor Frankenstein en azından doğduğu topraklara dönmeyi ve ailesinden kalan şatoyu devralmayı kabul eder. Delilikle nam salmış ailesine ve dedesinin işlerine inanmasa da laboratuvarda bulduğu bir deney kitabı tüm fikirlerini değiştirecektir. Filmin 2 dalda Oscar adaylığı bulunuyor.(n)</desc>
+  </programme>
+  <programme start="20200927122000 +0300" stop="20200927151000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Kan Dökülecek</title>
+    <title lang="en">There Will Be Blood</title>
+    <desc lang="tr">Upton Sinclair'in "Petrol-Oil!" adlı romanından uyarlanan filmin konusu, 20. yüzyılın başlarında geçiyor. Arazisinde petrol çıkartma haklarını almasıyla birlikte servetini hızla katlayan bir işadamı ile kasabanın karizmatik genç rahibinin paralel öyküsü anlatılıyor. 8 dalda Oscar'a aday gösterilen film, 2 dalda heykelciğin sahibi oldu.(n)</desc>
+  </programme>
+  <programme start="20200927151000 +0300" stop="20200927173000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Büyülü Çift</title>
+    <title lang="en">Kate &amp; Leopold</title>
+    <desc lang="tr">Kate ve Leopold yaşadıkları yüzyıllar arasındaki farklara rağmen birbirlerine çok yakışan iki insanlardır. Kadın 21. yüzyılın iş kadını prototipini başarıyla temsil ederken Leopold, 19. yüzyılın tipik düklerinden bir tanesidir. Bir tablo sayesinde zamanda yolculuk yapan Leopold, kendisini Kate'in karşısında bulacaktır. Filmin En İyi Şarkı dalında Oscar adaylığı bulunuyor.(n)</desc>
+  </programme>
+  <programme start="20200927173000 +0300" stop="20200927194500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Kızgın Güneş</title>
+    <title lang="en">Under the Tuscan Sun</title>
+    <desc lang="tr">San Francisco'lu bir yazar olan Frances Mayes’in mükemmel gibi görünen hayatı ani bir olayla sarsılır. Verdiği bir partide, kitabını eleştirdiği için ondan hoşlanmayan bir başka yazar kocasının onu aldattığını söyler. Boşanma süreci, Frances'i derinden etkiler ve artık yazı yazamaz hale gelir. Hatta, en yakın arkadaşı olan Patti bile, Frances'in bir daha artık kendini toparlayamayacağını düşünmektedir.(n)</desc>
+  </programme>
+  <programme start="20200927194500 +0300" stop="20200927224500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Erkekler Ağlamaz</title>
+    <title lang="en">Boys Don't Cry</title>
+    <desc lang="tr">Nebraska'nın Falls şehri, Brandon Teena adındaki delikanlıyla ilgili dedikodularla çalkalanıyordu, tüm kadınların olduğu gibi tüm kasabalının da dikkatini ve ilgisini çekmişti. Karizmatik kişiliği ve masum yüzünün arkasında kocaman bir sır gizliyordu. O herkesin olduğunu zannettiği kişi değildi. Hilary Swank, bu filmle En İyi Kadın Oyuncu dalında Oscar ödülü kazandı.(n)</desc>
+  </programme>
+  <programme start="20200928215000 +0300" stop="20200929003000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Herkes Onu İster</title>
+    <title lang="en">Get Over It</title>
+    <desc lang="tr">Lisede popüler bir basketbol yıldızı olan Berke, uzun zamandır birlikte olduğu kız arkadaşı Allison tarafından terkedildikten sonra yeni durumunu hazmetmekte bir hayli güçlük çeker. En yakın arkadaş Felix'in kardeşi Kelly'nin yardımlarıyla, eski seviglisini takip için bir bahar müzikaline katılır.(n)</desc>
+  </programme>
+  <programme start="20200929003000 +0300" stop="20200929032000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Genç Frankenstein</title>
+    <title lang="en">Young Frankenstein</title>
+    <desc lang="tr">Atalarından gurur duymasa da, Doktor Frankenstein en azından doğduğu topraklara dönmeyi ve ailesinden kalan şatoyu devralmayı kabul eder. Delilikle nam salmış ailesine ve dedesinin işlerine inanmasa da laboratuvarda bulduğu bir deney kitabı tüm fikirlerini değiştirecektir. Filmin 2 dalda Oscar adaylığı bulunuyor.(n)</desc>
+  </programme>
+  <programme start="20200929032000 +0300" stop="20200929061000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Kan Dökülecek</title>
+    <title lang="en">There Will Be Blood</title>
+    <desc lang="tr">Upton Sinclair'in "Petrol-Oil!" adlı romanından uyarlanan filmin konusu, 20. yüzyılın başlarında geçiyor. Arazisinde petrol çıkartma haklarını almasıyla birlikte servetini hızla katlayan bir işadamı ile kasabanın karizmatik genç rahibinin paralel öyküsü anlatılıyor. 8 dalda Oscar'a aday gösterilen film, 2 dalda heykelciğin sahibi oldu.(n)</desc>
+  </programme>
+  <programme start="20200929061000 +0300" stop="20200929082500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Büyülü Çift</title>
+    <title lang="en">Kate &amp; Leopold</title>
+    <desc lang="tr">Kate ve Leopold yaşadıkları yüzyıllar arasındaki farklara rağmen birbirlerine çok yakışan iki insanlardır. Kadın 21. yüzyılın iş kadını prototipini başarıyla temsil ederken Leopold, 19. yüzyılın tipik düklerinden bir tanesidir. Bir tablo sayesinde zamanda yolculuk yapan Leopold, kendisini Kate'in karşısında bulacaktır. Filmin En İyi Şarkı dalında Oscar adaylığı bulunuyor.(n)</desc>
+  </programme>
+  <programme start="20200929082500 +0300" stop="20200929100000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Herkes Onu İster</title>
+    <title lang="en">Get Over It</title>
+    <desc lang="tr">Lisede popüler bir basketbol yıldızı olan Berke, uzun zamandır birlikte olduğu kız arkadaşı Allison tarafından terkedildikten sonra yeni durumunu hazmetmekte bir hayli güçlük çeker. En yakın arkadaş Felix'in kardeşi Kelly'nin yardımlarıyla, eski seviglisini takip için bir bahar müzikaline katılır.(n)</desc>
+  </programme>
+  <programme start="20200929100000 +0300" stop="20200929120000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Kızgın Güneş</title>
+    <title lang="en">Under the Tuscan Sun</title>
+    <desc lang="tr">San Francisco'lu bir yazar olan Frances Mayes’in mükemmel gibi görünen hayatı ani bir olayla sarsılır. Verdiği bir partide, kitabını eleştirdiği için ondan hoşlanmayan bir başka yazar kocasının onu aldattığını söyler. Boşanma süreci, Frances'i derinden etkiler ve artık yazı yazamaz hale gelir. Hatta, en yakın arkadaşı olan Patti bile, Frances'in bir daha artık kendini toparlayamayacağını düşünmektedir.(n)</desc>
+  </programme>
+  <programme start="20200929120000 +0300" stop="20200929134500 +0300" channel="MovieSmart Gold">
+    <title lang="tr">En Sevdiğim Marslı</title>
+    <title lang="en">My Favorite Martian</title>
+    <desc lang="tr">Bir uzay seyahati sırasında yaşadığı bir kaza sonrasında Los Angeles civarına düşen ve dış görünüş olarak fazlasıyla insana benzeyen dünya dışı bir varlık gizemli anlara sebep olur. Los Angeles Sun gazetesinde çalışan genç gazeteci Tim O'Hara eve dönüş yolunda, Mars'tan dünyaya inmeye çalışırken arızalanan uzay gemisinden çıkan bu Marslı ile karşılaşır.(n)</desc>
+  </programme>
+  <programme start="20200929134500 +0300" stop="20200929153000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Çatı Katı</title>
+    <title lang="en">Duplex</title>
+    <desc lang="tr">Nancy Kendricks ve Alex Rose her şeyi yoluna koymuş, tek eksikleri hayallerindeki ev olan genç bir New Yorklu çifttir. Sonunda bu evi Brooklyn'de bulurlar. Hayallerindekinden de fazlasına sahip olan bu dubleks evin tek problemi ev sahibi Bayan Connelly'dir.(n)</desc>
+  </programme>
+  <programme start="20200929153000 +0300" stop="20200929173000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Benim Aşk Pastam</title>
+    <title lang="en">My Blueberry Nights</title>
+    <desc lang="tr">Kalbi kırılan Elizabeth, yaşadıklarının ardından hayatındaki her şeyi, rüyasını ve duygusal olarak yakınlaşmaya başladığı arkadaşı Jeremy'i geride bırakarak kırık kalbini düzeltebilecek bir şeyler bulmak amacıyla Amerika boyunca bir yolculuğa çıkmaya karar veriyor.(n)</desc>
+  </programme>
+  <programme start="20200929173000 +0300" stop="20200929195000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Hayat Güzeldir</title>
+    <title lang="en">Life Is Beautiful</title>
+    <desc lang="tr">1930'ların İtalya'sında Guido adındaki tasasız, kaygısız bir Yahudi kitapçı, yakın bir şehirdeki güzel bir kadına kur yapıp onunla evlenerek bir peri masalı başlatır. Guido ve karısının bir oğulları olur ve İtalya'yı Alman güçleri istila edene kadar birlikte mutluluk içinde yaşarlar. Filmin 3 dalda Oscar ödülü bulunuyor.(n)</desc>
+  </programme>
+  <programme start="20200929195000 +0300" stop="20200929225000 +0300" channel="MovieSmart Gold">
+    <title lang="tr">Kedi Gözü</title>
+    <title lang="en">Cat's Eye</title>
+    <desc lang="tr">Farklı konusuyla dikkat çeken bir Stephen King başyapıtı… Üç farklı bölümden oluşan hikaye, bir kedi aracılığıyla bağlanıyor. Sokak kedisini alıp sahiplenen kişilerin başına gelen ilginç olaylara, kedi aracılığıyla şahit oluyoruz….(n)</desc>
+  </programme>
+</tv>
