@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="trt1.tr">
+    <display-name lang="tr">TRT 1</display-name>
+    <url>http://www.trt.net.tr</url>
+  </channel>
+  <programme start="20200925061800 +0300" stop="20200925062000 +0300" channel="trt1.tr">
+    <title lang="tr">İstiklal Marşı Ve Günün Program Akışı</title>
+  </programme>
+  <programme start="20200925062000 +0300" stop="20200925093000 +0300" channel="trt1.tr">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200925093000 +0300" stop="20200925111500 +0300" channel="trt1.tr">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200925111500 +0300" stop="20200925141500 +0300" channel="trt1.tr">
+    <title lang="tr">Yeşil Deniz</title>
+  </programme>
+  <programme start="20200925141500 +0300" stop="20200925165000 +0300" channel="trt1.tr">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200925165000 +0300" stop="20200925185500 +0300" channel="trt1.tr">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200925185500 +0300" stop="20200925195500 +0300" channel="trt1.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200925195500 +0300" stop="20200925200000 +0300" channel="trt1.tr">
+    <title lang="tr">Doğrusu Ne?</title>
+  </programme>
+  <programme start="20200925200000 +0300" stop="20200925232500 +0300" channel="trt1.tr">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200925232500 +0300" stop="20200926010000 +0300" channel="trt1.tr">
+    <title lang="tr">Pelin Çift İle Gündem Ötesi</title>
+  </programme>
+  <programme start="20200926010000 +0300" stop="20200926033000 +0300" channel="trt1.tr">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200926033000 +0300" stop="20200926035500 +0300" channel="trt1.tr">
+    <title lang="tr">52 Hafta</title>
+  </programme>
+  <programme start="20200926055300 +0300" stop="20200926055500 +0300" channel="trt1.tr">
+    <title lang="tr">İstiklal Marşı Ve Günün Program Akışı</title>
+  </programme>
+  <programme start="20200926035500 +0300" stop="20200926055500 +0300" channel="trt1.tr">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200926055500 +0300" stop="20200926080500 +0300" channel="trt1.tr">
+    <title lang="tr">İncir Ağacı</title>
+  </programme>
+  <programme start="20200926080500 +0300" stop="20200926092500 +0300" channel="trt1.tr">
+    <title lang="tr">Nostalji Kuşağı "Uğurlugiller"</title>
+  </programme>
+  <programme start="20200926092500 +0300" stop="20200926103000 +0300" channel="trt1.tr">
+    <title lang="tr">Nostalji Kuşağı "Perihan Abla"</title>
+  </programme>
+  <programme start="20200926103000 +0300" stop="20200926133000 +0300" channel="trt1.tr">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200926133000 +0300" stop="20200926142500 +0300" channel="trt1.tr">
+    <title lang="tr">Yedi Numara</title>
+  </programme>
+  <programme start="20200926142500 +0300" stop="20200926153000 +0300" channel="trt1.tr">
+    <title lang="tr">Yeditepe İstanbul</title>
+  </programme>
+  <programme start="20200926153000 +0300" stop="20200926185500 +0300" channel="trt1.tr">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200926185500 +0300" stop="20200926200000 +0300" channel="trt1.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200926200000 +0300" stop="20200927001500 +0300" channel="trt1.tr">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200927001500 +0300" stop="20200927025500 +0300" channel="trt1.tr">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200927025500 +0300" stop="20200927045000 +0300" channel="trt1.tr">
+    <title lang="tr">Filinta</title>
+  </programme>
+  <programme start="20200927052800 +0300" stop="20200927053000 +0300" channel="trt1.tr">
+    <title lang="tr">İstiklal Marşı Ve Günün Program Akışı</title>
+  </programme>
+  <programme start="20200927045000 +0300" stop="20200927053000 +0300" channel="trt1.tr">
+    <title lang="tr">Yedi Numara</title>
+  </programme>
+  <programme start="20200927053000 +0300" stop="20200927062000 +0300" channel="trt1.tr">
+    <title lang="tr">İncir Ağacı</title>
+  </programme>
+  <programme start="20200927062000 +0300" stop="20200927085000 +0300" channel="trt1.tr">
+    <title lang="tr">Böyle Bitmesin</title>
+  </programme>
+  <programme start="20200927085000 +0300" stop="20200927115000 +0300" channel="trt1.tr">
+    <title lang="tr">Diriliş "Ertuğrul"</title>
+  </programme>
+  <programme start="20200927115000 +0300" stop="20200927130000 +0300" channel="trt1.tr">
+    <title lang="tr">Enine Boyuna</title>
+  </programme>
+  <programme start="20200927130000 +0300" stop="20200927144000 +0300" channel="trt1.tr">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200927144000 +0300" stop="20200927175500 +0300" channel="trt1.tr">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200927175500 +0300" stop="20200927185500 +0300" channel="trt1.tr">
+    <title lang="tr">Gezegenin Kara Kutusu ''Antarktika''</title>
+  </programme>
+  <programme start="20200927185500 +0300" stop="20200927200000 +0300" channel="trt1.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200927200000 +0300" stop="20200928001500 +0300" channel="trt1.tr">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200928001500 +0300" stop="20200928013000 +0300" channel="trt1.tr">
+    <title lang="tr">Gezegenin Kara Kutusu ''Antarktika''</title>
+  </programme>
+  <programme start="20200928013000 +0300" stop="20200928041000 +0300" channel="trt1.tr">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200928055800 +0300" stop="20200928060000 +0300" channel="trt1.tr">
+    <title lang="tr">İstiklal Marşı Ve Günün Program Akışı</title>
+  </programme>
+  <programme start="20200928041000 +0300" stop="20200928060000 +0300" channel="trt1.tr">
+    <title lang="tr">Böyle Bitmesin</title>
+  </programme>
+  <programme start="20200928060000 +0300" stop="20200928080000 +0300" channel="trt1.tr">
+    <title lang="tr">Nirvana Alevler İçinde (Altyazılı)</title>
+  </programme>
+  <programme start="20200928080000 +0300" stop="20200928090000 +0300" channel="trt1.tr">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200928090000 +0300" stop="20200928110000 +0300" channel="trt1.tr">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200928110000 +0300" stop="20200928143000 +0300" channel="trt1.tr">
+    <title lang="tr">Yeşil Deniz</title>
+  </programme>
+  <programme start="20200928143000 +0300" stop="20200928170000 +0300" channel="trt1.tr">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200928170000 +0300" stop="20200928185500 +0300" channel="trt1.tr">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200928185500 +0300" stop="20200928195500 +0300" channel="trt1.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200928195500 +0300" stop="20200928200000 +0300" channel="trt1.tr">
+    <title lang="tr">Doğrusu Ne?</title>
+  </programme>
+  <programme start="20200928200000 +0300" stop="20200929014000 +0300" channel="trt1.tr">
+    <title lang="tr">Uyanış: Büyük Selçuklu</title>
+  </programme>
+  <programme start="20200929014000 +0300" stop="20200929030000 +0300" channel="trt1.tr">
+    <title lang="tr">Leyla İle Mecnun</title>
+  </programme>
+  <programme start="20200929030000 +0300" stop="20200929032500 +0300" channel="trt1.tr">
+    <title lang="tr">52 Hafta</title>
+  </programme>
+  <programme start="20200929055800 +0300" stop="20200929060000 +0300" channel="trt1.tr">
+    <title lang="tr">İstiklal Marşı Ve Günün Program Akışı</title>
+  </programme>
+  <programme start="20200929032500 +0300" stop="20200929060000 +0300" channel="trt1.tr">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200929060000 +0300" stop="20200929080000 +0300" channel="trt1.tr">
+    <title lang="tr">Nirvana Alevler İçinde (Altyazılı)</title>
+  </programme>
+  <programme start="20200929080000 +0300" stop="20200929090000 +0300" channel="trt1.tr">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200929090000 +0300" stop="20200929110000 +0300" channel="trt1.tr">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200929110000 +0300" stop="20200929143000 +0300" channel="trt1.tr">
+    <title lang="tr">Yeşil Deniz</title>
+  </programme>
+  <programme start="20200929143000 +0300" stop="20200929170000 +0300" channel="trt1.tr">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200929170000 +0300" stop="20200929185500 +0300" channel="trt1.tr">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200929185500 +0300" stop="20200929195500 +0300" channel="trt1.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200929195500 +0300" stop="20200929200000 +0300" channel="trt1.tr">
+    <title lang="tr">Doğrusu Ne?</title>
+  </programme>
+  <programme start="20200929200000 +0300" stop="20200929233000 +0300" channel="trt1.tr">
+    <title lang="tr">Masumlar Apartmanı</title>
+  </programme>
+  <programme start="20200929233000 +0300" stop="20200930022000 +0300" channel="trt1.tr">
+    <title lang="tr">Yerli Dizi</title>
+  </programme>
+  <programme start="20200930022000 +0300" stop="20200930035000 +0300" channel="trt1.tr">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200930055800 +0300" stop="20200930060000 +0300" channel="trt1.tr">
+    <title lang="tr">İstiklal Marşı Ve Günün Program Akışı</title>
+  </programme>
+  <programme start="20200930035000 +0300" stop="20200930060000 +0300" channel="trt1.tr">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200930060000 +0300" stop="20200930080000 +0300" channel="trt1.tr">
+    <title lang="tr">Nirvana Alevler İçinde (Altyazılı)</title>
+  </programme>
+  <programme start="20200930080000 +0300" stop="20200930090000 +0300" channel="trt1.tr">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20200930090000 +0300" stop="20200930110000 +0300" channel="trt1.tr">
+    <title lang="tr">Türkan Hanım'ın Konağı</title>
+  </programme>
+  <programme start="20200930110000 +0300" stop="20200930143000 +0300" channel="trt1.tr">
+    <title lang="tr">Yeşil Deniz</title>
+  </programme>
+  <programme start="20200930143000 +0300" stop="20200930170000 +0300" channel="trt1.tr">
+    <title lang="tr">Fazlası Zarar</title>
+  </programme>
+  <programme start="20200930170000 +0300" stop="20200930185500 +0300" channel="trt1.tr">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20200930185500 +0300" stop="20200930195500 +0300" channel="trt1.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20200930195500 +0300" stop="20200930200000 +0300" channel="trt1.tr">
+    <title lang="tr">Doğrusu Ne?</title>
+  </programme>
+  <programme start="20200930200000 +0300" stop="20200930234000 +0300" channel="trt1.tr">
+    <title lang="tr">Benim Adım Melek</title>
+  </programme>
+  <programme start="20200930234000 +0300" stop="20201001023000 +0300" channel="trt1.tr">
+    <title lang="tr">Yerli Dizi</title>
+  </programme>
+</tv>
