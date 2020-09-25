@@ -5,9 +5,9 @@ http://gold.kingotv.club:8080/duranogz/duran44/1836
 http://gold.kingotv.club:8080/duranogz/duran44/33174
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="    TRT 4K" tvg-logo="http://176.9.134.196:2086/logos/trt-4k.png" group-title="TR ➾ ULUSAL",    TRT 4K
 http://gold.kingotv.club:8080/duranogz/duran44/1839
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="    TRT 1   " tvg-logo="http://176.9.134.196:2086/logos/trt-1.png" group-title="TR ➾ ULUSAL",    TRT 1   
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="    TRT 1 HD-TR " tvg-logo="http://176.9.134.196:2086/logos/trt-1.png" group-title="TR ➾ ULUSAL",    TRT 1   
 http://gold.kingotv.club:8080/duranogz/duran44/1837
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="    TRT 1 F  " tvg-logo="http://176.9.134.196:2086/logos/trt-1.png" group-title="TR ➾ ULUSAL",    TRT 1 F  
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="   TRT 1 HD-TR " tvg-logo="http://176.9.134.196:2086/logos/trt-1.png" group-title="TR ➾ ULUSAL",    TRT 1 F  
 http://gold.kingotv.club:8080/duranogz/duran44/1838
 #EXTINF:-1 tvg-id="TRT 2   -TR" tvg-name="    TRT 2 F  " tvg-logo="http://vodpictures.ddns.net/picons/logos/trt2.png" group-title="TR ➾ ULUSAL",    TRT 2 F  
 http://gold.kingotv.club:8080/duranogz/duran44/1840
@@ -15,7 +15,7 @@ http://gold.kingotv.club:8080/duranogz/duran44/1840
 http://gold.kingotv.club:8080/duranogz/duran44/1845
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="    SHOW TV F  " tvg-logo="http://176.9.134.196:2086/logos/show-tv.png" group-title="TR ➾ ULUSAL",    SHOW TV F  
 http://gold.kingotv.club:8080/duranogz/duran44/1846
-#EXTINF:-1 tvg-id="atv.tr" tvg-name=" ATV TR " tvg-logo="http://176.9.134.196:2086/logos/atv.png" group-title="TR ➾ ULUSAL",    ATV TR  
+#EXTINF:-1 tvg-id="ATV HD-TR" tvg-name=" ATV HD-TR " tvg-logo="http://176.9.134.196:2086/logos/atv.png" group-title="TR ➾ ULUSAL",    ATV TR  
 http://gold.kingotv.club:8080/duranogz/duran44/1841
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="    KANAL D   " tvg-logo="http://176.9.134.196:2086/logos/kanal-d.png" group-title="TR ➾ ULUSAL",    KANAL D   
 http://gold.kingotv.club:8080/duranogz/duran44/1843
