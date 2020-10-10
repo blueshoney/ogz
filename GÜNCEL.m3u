@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name=" beIN SPORTS 1 HD   " tvg-logo="http://176.9.134.196:2086/logos/bein1- .png" group-title="TR ➾ beIN SPORTS", beIN SPORTS 1 HD 
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name=" beIN SPORTS 1    " tvg-logo="http://176.9.134.196:2086/logos/bein1- .png" group-title="TR ➾ beIN SPORTS", beIN SPORTS 1
 http://gold.kingotv.club:8080/duranogz/duran44/1896
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name=" beIN SPORTS 2 HD  " tvg-logo="http://176.9.134.196:2086/logos/beins2 .png" group-title="TR ➾ beIN SPORTS", beIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name=" beIN SPORTS 2   " tvg-logo="http://176.9.134.196:2086/logos/beins2 .png" group-title="TR ➾ beIN SPORTS", beIN SPORTS 2
 http://gold.kingotv.club:8080/duranogz/duran44/1898
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name=" beIN SPORTS 3 HD " tvg-logo="http://176.9.134.196:2086/logos/bein3 .png" group-title="TR ➾ beIN SPORTS", beIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name=" beIN SPORTS 3  " tvg-logo="http://176.9.134.196:2086/logos/bein3 .png" group-title="TR ➾ beIN SPORTS", beIN SPORTS 3
 http://gold.kingotv.club:8080/duranogz/duran44/1900
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name=" beIN SPORTS 4 HD  " tvg-logo="http://176.9.134.196:2086/logos/bein4 .png" group-title="TR ➾ beIN SPORTS", beIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name=" beIN SPORTS 4   " tvg-logo="http://176.9.134.196:2086/logos/bein4 .png" group-title="TR ➾ beIN SPORTS", beIN SPORTS 4
 http://gold.kingotv.club:8080/duranogz/duran44/1902
 #EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name=" beIN SPORTS MAX 1  " tvg-logo="http://176.9.134.196:2086/logos/beinmax1 .png" group-title="TR ➾ beIN SPORTS", beIN SPORTS MAX 1  
 http://gold.kingotv.club:8080/duranogz/duran44/1904
@@ -219,7 +219,7 @@ http://gold.kingotv.club:8080/duranogz/duran44/48501
 http://gold.kingotv.club:8080/duranogz/duran44/2066
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-name=" beIN GURME  " tvg-logo="http://176.9.134.196:2086/logos/beingurme .png" group-title="TR ➾ BELGESEL", beIN GURME  
 http://gold.kingotv.club:8080/duranogz/duran44/2067
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-name=" bein IZ  " tvg-logo="http://176.9.134.196:2086/logos/beiniz .png" group-title="TR ➾ BELGESEL", bein IZ  
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name=" beIN IZ  " tvg-logo="http://176.9.134.196:2086/logos/beiniz .png" group-title="TR ➾ BELGESEL", beIN  IZ  
 http://gold.kingotv.club:8080/duranogz/duran44/2069
 #EXTINF:-1 tvg-id="" tvg-name=" ANIMAUX" tvg-logo="http://176.9.134.196:2086/logos/animax .png" group-title="TR ➾ BELGESEL", ANIMAUX
 http://gold.kingotv.club:8080/duranogz/duran44/34875
